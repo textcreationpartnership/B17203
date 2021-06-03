@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An examination of Dr. Woodward's account of the deluge, &amp;c. with a comparison between Steno's philosophy and the doctor's, in the case of marine bodies dug out of the earth / by J.A. ... ; with a letter to the author concerning an abstract of Agostino Scilla's book on the same subject, printed in the philosophical transactions by W.W. ...</title>
+            <author>Arbuthnot, John, 1667-1735.</author>
+         </titleStmt>
+         <extent>Approx. 104KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17203</idno><idno type="EEBO-CITATION">12572201</idno>
+  <idno type="VID">200280</idno>
+  <idno type="EEBO-PROQUEST">2240987854</idno>
+  
+            <idno type="STC">Wing A3601</idno>
+            <idno type="OCLC">12572201</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 953:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An examination of Dr. Woodward's account of the deluge, &amp;c. with a comparison between Steno's philosophy and the doctor's, in the case of marine bodies dug out of the earth / by J.A. ... ; with a letter to the author concerning an abstract of Agostino Scilla's book on the same subject, printed in the philosophical transactions by W.W. ...</title>
+                  <author>Arbuthnot, John, 1667-1735.</author>
+                  <author>Wotton, William, 1666-1727.</author>
+               </titleStmt>
+               <extent>[4], 84 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Bateman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by John Arbuthnot. Cf. Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Woodward, John, 1665-1728. --  Essay toward a natural history of the earth and terrestrial bodies.</term>
+               <term type="personal_name">Steno, Nicolaus, 1638-1686.</term>
+               <term type="personal_name">Scilla, Agostino, 1639-1700. --  Vana speculazione disingannata dal senso.</term>
+               <term type="topical_term">Deluge --  Early works to 1800.</term>
+               <term type="topical_term">Paleontology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200280:1"/>
+            <pb facs="tcp:200280:1"/>
+            <p>AN EXAMINATION OF <hi>Dr. WOODWARD's</hi> Account of the <hi>Deluge,</hi> &amp;c.</p>
+            <p>With a Comparison between STENO'S Philosophy and the DOCTOR's, in the Case of Marine Bodies dug out of the Earth.</p>
+            <p>By <hi>J. A.</hi> M. D.</p>
+            <p>WITH A LETTER to the Author CONCERNING An ABSTRACT <hi>Of</hi> AGOSTINO SCILLA's <hi>Book on the same Subject, Printed in the</hi> Philosophical Transactions.</p>
+            <p>By <hi>W. W.</hi> F. R. S.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>C. Bateman</hi> in <hi>Pater-noster-row.</hi> 1697.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:200280:2"/>
+            <pb facs="tcp:200280:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>I</hi> Shall make no Apology for the Remarks, since the unquestionable Liberties of the Common-Wealth of Learning allow me the same Priviledg of examining, as they do the Doctor of proposing his Hypothesis; and I am so far from having given the Doctor any just cause of Offence, that I shall rather be<g ref="char:EOLhyphen"/>lieve I deserve his Thanks; for since he has set up his Essay as the Model of a larger Structure, he ought to be suppos'd rather to invite than discourage those who may point at any Faults which afterwards it may be too late to correct: The Citations out of Dr. <hi>Woodward</hi>
+               <pb facs="tcp:200280:3"/>and <hi>Steno</hi> may seem tedious, but they were necessary; for after such heavy and unjust Charges of Mis-represent<g ref="char:EOLhyphen"/>ing, which had appear'd in some Mat<g ref="char:EOLhyphen"/>ters relating to this Controversie, I durst not venture out of the beaten Road of Verbal Quotation. After I had finish'd these few Remarks, my Worthy Friend Mr. <hi>Wotton,</hi> well known for his Paral<g ref="char:EOLhyphen"/>lel of Ancient and Modern Learning, sent me a Vindication of his Account of <hi>Agostino Scilla,</hi> with a Permission to publish it, tho I wish he had allowed me to scratch out some things, which have no other ground than his Civility.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PReface, l. <hi>2.</hi> r. following Remarks; p. <hi>20.</hi> l. <hi>x.</hi> powder r. powder'd; p. <hi>23.</hi> l. <hi>13.132,</hi> r. <hi>232;</hi> p. <hi>24.</hi> l. <hi>26.</hi> r. If I; p. <hi>25.</hi> l. <hi>8.</hi> vegetable, r. vegetative; page <hi>30.</hi> l. <hi>29.</hi> so inconsistent, r. inconsistent.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:200280:3"/>
+            <head>AN EXAMINATION OF <hi>D<seg rend="sup">r</seg> WOODWARD's</hi> ACCOUNT OF THE DELUGE, <hi>&amp;c.</hi>
+            </head>
+            <p>THAT the Reader may have a true Notion of Dr. <hi>Woodward</hi>'s History of the Deluge, he may take the following Account, in his own Words.</p>
+            <p n="1">1. <q>That at the Time of the Deluge,<note place="margin">
+                     <hi>P.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</note> the Water of the Ocean was first born forth upon the Earth; that it was immedi<g ref="char:EOLhyphen"/>ately
+<pb n="2" facs="tcp:200280:4"/>succeeded by that of the Abyss, which likewise was brought out upon the face of the Globe.<note place="margin">
+                     <hi>P.</hi> 109.</note> How this Water was rais'd at the Deluge? by what Issues or Out-lets it came forth? what succeeded into the room of it while absent? the Author says he will tell us in his larger Work.</q>
+            </p>
+            <p n="2">2. <q>That the whole Terrestrial Globe was taken all to pieces,<note place="margin">Preface.</note> and dissolv'd at the Deluge; the Particles of Stone, Mar<g ref="char:EOLhyphen"/>ble, and all other solid Fossils dissever'd; their constituent Corpuscles all disjoin'd; their Cohesion perfectly ceasing;<note place="margin">
+                     <hi>p.</hi> 74.</note> that the said Corpuscles of those solid Fossils, to gether with the Corpuscles of those which were not before solid, such as Sand, Earth, and the like; <hi>(he means the lesser Solids, for Sand and Earth are not Fluids:)</hi> as also all Animal Bodies, and Parts of Ani<g ref="char:EOLhyphen"/>mals, Bones, Teeth, Shells, Vegetables, and Parts of Vegetables, Trees, Shrubs, Herbs, and, to be short, all Bodies what<g ref="char:EOLhyphen"/>soever that were either upon the Earth, or that constituted the Mass of it; if not quite down to the Abyss, yet at least to the greatest depth we ever dig: <hi>(that is, if not to the Depth of two thousand Miles, at least of two hundred Feet) but the rest of the Hypo<g ref="char:EOLhyphen"/>thesis,
+<pb n="3" facs="tcp:200280:4"/>and the former Part of the Paragraph, does not suffer this to be any Doubt: for</hi> the whole Terrestrial Globe was dissol<g ref="char:EOLhyphen"/>ved:) I say, all these were assum'd up promiscuously into the Water, and su<g ref="char:EOLhyphen"/>stained in it in such manner, that the Wa<g ref="char:EOLhyphen"/>ter and Bodies in it together made up one common confus'd Mass.<note place="margin">
+                     <hi>p.</hi> 107.</note> What was the immediate instrument or means where by the Stone and other solid Matter of the antediluvian Earth was dissolv'd; why the Shells, Teeth, Bones,<note place="margin">
+                     <hi>p.</hi> 108.</note> and o<g ref="char:EOLhyphen"/>ther parts of Animal Bodies, as also the Trunks, Roots, and other parts of Vege<g ref="char:EOLhyphen"/>tables were not dissolv'd as well as the Stones and other mineral Solids of that Earth, the Author has promised a Reason in his larger Work.</q>
+            </p>
+            <p n="3">3. <q>That,<note place="margin">
+                     <hi>p.</hi> 75.</note> at length all the Mass that was thus born up into the Water was a<g ref="char:EOLhyphen"/>gain precipitated, and subsided towards the Bottom; that this Subsidence hap<g ref="char:EOLhyphen"/>pen'd generally, and as near as could pos<g ref="char:EOLhyphen"/>sibly be expected in so great a Confusion, according to the Laws of Gravity: that Matter, Body or Bodies, which had the greatest quantity or degree of Gravity, subsiding first in order, and falling lowest: that which had the next, or still a lesser
+<pb n="4" facs="tcp:200280:5"/>degree of Gravity, subsiding next after, and settling upon the precedent; and so on in their several Courses.<note place="margin">
+                     <hi>p.</hi> 103.</note> But the <hi>Ter<g ref="char:EOLhyphen"/>restrial Matter,</hi> that first subsided, did not descend down quite to the Centre, and fill up the Cavity of the great Abyss, but stop'd at that distance from it, forming an arch'd Expansum, or rather a Sphere a<g ref="char:EOLhyphen"/>round it; which is now the lowest Stra<g ref="char:EOLhyphen"/>tum and Boundary of that vast Concepta<g ref="char:EOLhyphen"/>cle of Water. Of this likewise the Author will assign a Reason in his larger Work.</q>
+            </p>
+            <p n="4">4. <q>That the <hi>Strata</hi> of Marble,<note place="margin">
+                     <hi>p.</hi> 79.</note> of Stone, and of all other solid Matter, attain'd their Solidity, as soon as the Sand, or o<g ref="char:EOLhyphen"/>ther Matter whereof they consist, was ar<g ref="char:EOLhyphen"/>riv'd at the Bottom, and well settled there: The Reason of this too is reserv'd for the larger Work.</q>
+               <note place="margin">
+                  <hi>p.</hi> 109.</note>
+            </p>
+            <p n="5">5. <q>That this very various Miscellany of Bodies being determin'd to Subsidence in this order,<note place="margin">
+                     <hi>p.</hi> 30.</note> meerly by their different specifick Gravities, all those which had the same degree of Gravity, subsided at the same time, fell into and compos'd the same Stratum; so that those Shells and o her Bodies that were of the same speci<g ref="char:EOLhyphen"/>fick Gravity with Sand, sunk down toge<g ref="char:EOLhyphen"/>ther with it, and so became inclos'd in the
+<pb n="5" facs="tcp:200280:5"/>Strata of Stone, which that Sand form'd or constituted; those which were lighter and but of the same specifick Gravity with Chalk, in such places of the Mass where any Chalk was, fell to the Bot<g ref="char:EOLhyphen"/>tom at the same time that the chalky Par<g ref="char:EOLhyphen"/>ticles did, and so were entomb'd in the Strata of Chalk; and in like manner all the rest: that accordingly we now find in the Sand-stone of all Countries (the specifick Gravity of the several sorts whereof is very little different, being ge<g ref="char:EOLhyphen"/>nerally to Water as 2 ½ or 22/1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to 1.) only those <hi>Conchae, Pectines</hi> and <hi>Cochleae,</hi> and other Shells that are nearly of the same Gravity. <hi>viz.</hi> 2½ or 2 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>/8 to 1. But these are ordinarily found inclos'd in it, in pro<g ref="char:EOLhyphen"/>digious Numbers; whereas of Oyster Shells (which are in Gravity but as about 2 ⅓ to 1.) or the other lighter sort of Shells, scarce one ever appears therein; but on the contrary, in Chalk, which is lighter than Stone, being but as about 2 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to 1.) there are only found <hi>Echini</hi> and other lighter sort of Shells, &amp;c.</q>
+            </p>
+            <p n="6">6. <q>That the <hi>Strata</hi> thus sorm'd,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> whe<g ref="char:EOLhyphen"/>ther of Stone, of Chalk, of Coal, of Earth, or whatever other Matter they consisted of, lying thus upon each other,
+<pb n="6" facs="tcp:200280:6"/>were all originally Parallel; that they were plain, even and regular; and the Surface of the Earth likewise even and spherical; that they were continuous, and not interrupted or broken; and that the whole Mass of the Water lay then above them all, and consti<g ref="char:EOLhyphen"/>tuted a fluid Sphere environing the whole.</q>
+               <note place="margin">
+                  <hi>p.</hi> 80.</note>
+            </p>
+            <p n="7">7. <q>That after some time, the <hi>Strata</hi> were broken on all sides of the Globe; that they were dislocated, their Situation vary'd, be<g ref="char:EOLhyphen"/>ing elevated in some places and depress'd in others; that all the Irregularities and Inequalities of the terrestrial Globe, were caused by this means; that the Agent or Force which effected this dislocation of the <hi>Strata,</hi>
+                  <note place="margin">
+                     <hi>p.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9</note> was seated within the Earth; but what that Agent was, the Author has promised to tell us in his larger Work.</q>
+            </p>
+            <p n="8">8. <q>That upon the Disruption, of the <hi>Strata,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 16<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and the Elevation of some, and Depression of others of them which fol<g ref="char:EOLhyphen"/>low'd after that Disruption towards the the latter End of the Deluge, this Mass of Water fell back again into the deprest and lower Parts of the Earth, into Lakes and other Cavities; into the <hi>Alveus</hi> of the Ocean, and thro' the Fissures whereby this communicates with the Ocean, into the Abyss, which it fill'd till it <hi>came to an Equilibrium with the Ocean.</hi>
+               </q>
+            </p>
+            <pb n="7" facs="tcp:200280:6"/>
+            <p>
+               <hi>The Author deduces the Water of Springs from the great Abyss,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 121</note> by <hi>subterranean</hi> Heat, which evaporates and elevates its Water, buoying it up indifferently on e<g ref="char:EOLhyphen"/>very side.</p>
+            <p>Here indeed as the Doctor says,<note place="margin">
+                  <hi>p.</hi> 82.</note>
+               <hi>We see a mighty Revolution, and that attended with Accidents very strange and amazing; a change so exceeding great and violent, that the very Representation is enough to star<g ref="char:EOLhyphen"/>tle and shock a Man:</hi> but of the five or six surprising Alterations here describ'd, the Doctor has only given us the Philo<g ref="char:EOLhyphen"/>sophy of one; he has baulk'd our Expe<g ref="char:EOLhyphen"/>ctation in the most material Points; <hi>viz.</hi> What brought the Water of the Abyss up<g ref="char:EOLhyphen"/>on the Surface of the Globe? What succeed<g ref="char:EOLhyphen"/>ed in its room? What dissolv'd the Fossils? and at the same time spared the Animal and Vegetable Substances? What stopt the precipitated Matter in the Descent, so that it did not fill up the Cavity of the great Abyss? by what means the <hi>Strata</hi> attain'd their Solidity so soon as the Mat<g ref="char:EOLhyphen"/>ter whereof they consisted, was arriv'd at the Bottom? What effected the Disrupti<g ref="char:EOLhyphen"/>on of the <hi>Strata?</hi> All these the Doctor has tickt for; putting us off at this time only with the Reason why the <hi>Strata</hi> ran<g ref="char:EOLhyphen"/>ged
+<pb n="8" facs="tcp:200280:7"/>themselves in their present Order; <hi>viz.</hi> the different Gravity of the Matter whereof they consist. I wish at the same time he had not told us things of less mo<g ref="char:EOLhyphen"/>ment. But whatever his Reasons may be for deferring to explain himself in these Particulars, I will so far contribute to the making the larger Work more perfect, as to give the Doctor an Opportunity of clearing some Difficulties which seem to me to lie in his way. To begin then;</p>
+            <p>The Alterations of the Earth, here de<g ref="char:EOLhyphen"/>scrib'd, appear to be all of them above the Power, and contrary to the Laws of Nature, and consequently exclude the Phi<g ref="char:EOLhyphen"/>losophy of Second Causes.</p>
+            <p>First, the Water of the Abyss is brought upon the Surface of the Earth, contrary to its natural Gravity; this I think can only be done two ways; either by Pulsion of Attraction. The first is made use of by the Learned Author of the Theory, who raises the Water by the falling in of the external Crust: but it is plain the Doctor makes use of no such Instrument, since his Dissolution of the Earth happen'd after its being cover'd with the Water.<note place="margin">
+                  <hi>p</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>For the Water was all out upon the Surface of the Earth, before ever the Terrestrial Parts
+<pb n="9" facs="tcp:200280:7"/>stir'd.</hi> The latter, (I mean the Attracti<g ref="char:EOLhyphen"/>on of a heavenly Body) is made use of by a late ingenious Writer; but, besides that the Doctor seems to take no notice of it, this will not do the business after his manner.</p>
+            <p>It must be acknowledg'd that almighty Power can do this and much more; and as <hi>Steno</hi> says,<note place="margin">Prod. transl. p. <hi>103.</hi>
+               </note>
+               <hi>If the Motion of an Ani<g ref="char:EOLhyphen"/>mal can effect that, according to Pleasure, Places that are now overwhelm'd with Water shall be render'd dry; and by and by be drown<g ref="char:EOLhyphen"/>ed again by new Waters; why should we not be ready to grant to the first Mover of all things the like Liberty?</hi> But then I would no more undertake to explain this, than how the Dead are rais'd.</p>
+            <p>The second Difficulty is, the making a Body lighter than Water descend into the Cavity of the great Abyss in the place of the Water which had ascended: what Bo<g ref="char:EOLhyphen"/>dy this was, is a Secret the Doctor did not think us ripe for as yet; however we may be allow'd to guess. There is a Body somewhere about the Earth, it is neither any part of the Solids, nor the grosser Fluids of the terraqueous Globe; what Body is that? I dare not be positive, but I'll lay an even wager 'tis Air: so far is
+<pb n="10" facs="tcp:200280:8"/>certain, it must be lighter than Water, and so the Difficulty remains.</p>
+            <p>The next Miracle is, the Dissolution of all Solids (except Vegetable and Animal Sub<g ref="char:EOLhyphen"/>stances) into their <hi>constituent Parts;</hi> of this the Dr. says he will assign a plain Physical Reason. I must beg his pardon if I think it cannot be very plain. I will not trou<g ref="char:EOLhyphen"/>ble my self any more with guessing, but this I know, if any Man besides the Do<g ref="char:EOLhyphen"/>ctor should have pretended to such a Se<g ref="char:EOLhyphen"/>cret, it would have found the same Credit as the Philosophers Stone, Circular Shot, <hi>Perpetuum Mobile,</hi> or some such <hi>Chimera.</hi> But against the Dissolution of Solids. I have these two Objections.</p>
+            <p n="1">1. If the Cohesion of all Solids perfect<g ref="char:EOLhyphen"/>ly ceas'd, and their constituent Corpuscles were disjoin'd, why were not those of Sand, Gravel, and Earth so too? for they are little Solids, and have their consti<g ref="char:EOLhyphen"/>tuent Parts as well as the larger; and what dissolves the one will dissolve the o<g ref="char:EOLhyphen"/>ther.</p>
+            <p n="2">2. Had this Earth been so dissolved only as far as the Roots of the greatest Plants reach, we must have lost most of the <hi>Species</hi>'s of Plants which were before the Deluge. The Doctor tells us, That after
+<pb n="11" facs="tcp:200280:8"/>the Subsidence,<note n="*" place="margin">
+                  <hi>p.</hi> 78.</note>
+               <hi>Trees, and the other more under Vegetables, Shrubs and Herbs would rot and Decay; but the Seeds of all kinds of Vegetables being by this means repos'd, and, as it were, planted near the Surface of the Earth, in a Convenient and Natural Soil, a<g ref="char:EOLhyphen"/>mongst Matter proper for the Formation of Vegetables, would germinate, grow up and re<g ref="char:EOLhyphen"/>plenish the Earth.</hi> But the Seeds of all kinds of Vegetables could not be preser<g ref="char:EOLhyphen"/>ved, for some Plants had not as yet seeded at the time of the Deluge, or at least had seeded so long before as to have made some Progress in Vegetation; which I think, be<g ref="char:EOLhyphen"/>ing the tenderest Vegetables must have rotted and decayed after the Waters were off. Now, the Deluge happening, accor<g ref="char:EOLhyphen"/>ding to the Doctor, in the Month of <hi>May,</hi> few Plants must have remain'd, but such as were seeded the beginning of that Month, or the latter end of <hi>April,</hi> which are but a small part of the whole in most places of the Earth. I said, Few must have remain'd, and will not be so cruel as the Doctor to cut All off; for perhaps one Plant of a thousand might be so har<g ref="char:EOLhyphen"/>dy, after it had settled upon the Ground, to spring up again; and it is possible to
+<pb n="12" facs="tcp:200280:9"/>preserve Seeds at a great depth in the Ground: but the Propagation of all Ve<g ref="char:EOLhyphen"/>getables could not be trusted to such Ac<g ref="char:EOLhyphen"/>cidents. But further, let us consider that those Seeds which were ripe at the De<g ref="char:EOLhyphen"/>luge, floated for a considerable time in Water, among dissolv'd Minerals, enough to spoil their Texture, so as to render them for ever unfit for Vegetation. I be<g ref="char:EOLhyphen"/>lieve the Barly, after the Waters were off, would have made better Malt than Seed Corn; and <hi>Noah</hi> might have made merry with Strong Beer rather than staid so ma<g ref="char:EOLhyphen"/>ny Years till Vines grew up. The Fishes in my Mind must have fared no better than the Plants. We might have had store of Eels left us, and other Fishes that can live in Mud; but since, according to the Doctor,<note n="*" place="margin">
+                  <hi>p.</hi> 61.</note>
+               <hi>the far greatest part of all kings of Fish suffer'd under the Fury of the Deluge,</hi> I cannot see but whole Kinds as well as Individuals, must have perish'd without a new Miracle: but then the same Providence that would make use of extraordinary Means to preserve Fishes a<g ref="char:EOLhyphen"/>mongst Mud, could have sav'd the no less innocent Land Animals in Water. Upon the whole, if Matters had been so car<g ref="char:EOLhyphen"/>ried on, I cannot see why, amongst other
+<pb n="13" facs="tcp:200280:9"/>Stowage, <hi>Noah</hi> ought not to have had a Green-House and Fish-pond.</p>
+            <p>I come now to the fourth miraculous Change, which is the assuming up, and sustaining the Solids in Water. I am a<g ref="char:EOLhyphen"/>ware that a <hi>Menstruum</hi> will dissolve a small Quantity of Metal hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ier than it self, and sustain it; that Water will dissolve some things heavier, such as Salts and Gums, till it is saturated; and that Sand and Mud thrown into it in small Quan<g ref="char:EOLhyphen"/>tities, will sink at leisure; especially if it be agitated with a violent Motion; but that the Water should take up, and su<g ref="char:EOLhyphen"/>stain the whole Mass of heavy Solids, down to the Cavity of the great Abyss, most of which exceed it so much in speci<g ref="char:EOLhyphen"/>fick Gravity seems to me as miraculous as the swimming of <hi>Elisha</hi>'s Ax; and as little the Subject of Reasoning and Philosophy. Yea, some of them were not only sustain<g ref="char:EOLhyphen"/>ed, but carried many hundreds of Miles in a horizontal Line, such as the hea<g ref="char:EOLhyphen"/>vier sorts of Shell Fishes, that could not transport themselves thither by their Ani<g ref="char:EOLhyphen"/>mal Motion. Yea, these Kinds which are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and, according to the Doctor, are <hi>never removed, by the great<g ref="char:EOLhyphen"/>est Storms, from the Bottom of the Ocean.</hi>
+               <note place="margin">N. H. P. <hi>86.</hi>
+               </note>
+               <pb n="14" facs="tcp:200280:10"/>This plainly follows from what the Do<g ref="char:EOLhyphen"/>ctor says, for<note n="*" place="margin">
+                  <hi>p.</hi> 253.</note>
+               <hi>the Sea was of the same Big<g ref="char:EOLhyphen"/>ness and Capacity before the Deluge as now, and of the same Form also; that there was Sea in or near the same Parts of the Globe.</hi> But against this Mixture of Solids and Fluids, there lies another scurvy Objecti<g ref="char:EOLhyphen"/>on. The Doctor tells us,<note n="†" place="margin">
+                  <hi>p.</hi> 163.</note>
+               <hi>that to put a Stop to the Insults and Detractions of vain Men,</hi> [who will not be satisfied there was Water enough to over-top the highest Mountains] <hi>in one of the Sections of the Third Part of his larger Work, he enquires what Proportion the Water of the Globe bears to the Earthy Matter of it; but there being so great an Apparatus of things only previous, which must be adjusted before he could come to the Calculation, &amp;c. he could not then de<g ref="char:EOLhyphen"/>scend to Particulars, lest he should carry that Discourse beyond all reasonable Bounds.</hi> I think this Enquiry ought to have been previous to all others: the Doctor should have calculated the Proportions of his Drugs before he mix'd them. The chief thing to be adjusted here, is, <hi>In a Mixture of a Fluid and dry Solids, what Proportion the Fluids ought to bear to the So<g ref="char:EOLhyphen"/>lids, so as to make the Compositum attain a cer<g ref="char:EOLhyphen"/>tain Degree of Fluidity?</hi> I may venture to
+<pb n="15" facs="tcp:200280:10"/>say that this <hi>Aquae Q. S.</hi> will be at least tri<g ref="char:EOLhyphen"/>ple of the Solid Matter, so as to make it attain any reasonable Degree of Fluidi<g ref="char:EOLhyphen"/>ty. At first view I found this would press the Doctor's Hypothesis with a great Difficulty; but I went on, and putting the case in the fairest Extreme, suppos'd, in the Mixture of the Deluge, the Quan<g ref="char:EOLhyphen"/>tity of Water equal to that of the Terre<g ref="char:EOLhyphen"/>strial Matter, (I mean not in Weight but in Bulk;) then at the time<note n="*" place="margin">
+                  <hi>p.</hi> 261.</note>
+               <hi>when the Wa<g ref="char:EOLhyphen"/>ter was upon the Face of the Earth, and be<g ref="char:EOLhyphen"/>fore the Terrestrial Parts had stirr'd.</hi>
+            </p>
+            <p>Let the inward Sphere whose Diameter
+<figure/>
+               <pb n="16" facs="tcp:200280:11"/>is CA, represent the Cavity of the great Abyss, now deserted by it, and fill'd with some unknown Matter: the Anulus whose Thickness is AB, the solid Crust: and the Annulus whose Thickness is BD, the Wa<g ref="char:EOLhyphen"/>ter above, (I leave the outward Inequali<g ref="char:EOLhyphen"/>ties of the Surface of the Earth, and the inward of the Cavity of the Abyss, to compensate one another.) These three by Supposition are equal (bating the small Addition of the Water which was before upon the Surface of the Globe) <hi>viz.</hi> the Water, the Space where the Water was, and the Solid Matter. Then the Sphere whose Diameter is CA will be 1; that whose Di<g ref="char:EOLhyphen"/>ameter is CB will be 2; and that whose Diameter is CD will be 3; consequently CA, CB, and CD, will be as 1, <gap reason="math">
+                  <desc>〈 math 〉</desc>
+               </gap>. in round Numbers, as 100, 126, 144. There<g ref="char:EOLhyphen"/>fore AB equal to 26, and BD equal to 18, and supposing CD in this case to be equal to 3600 Miles (whereas it will be much more) BD, the height of the Water above the Surface of the Earth will be 450 miles: so that the Doctor needs not be much concern'd to find Water to cover the Earth if he had enough to dissolve it: but, on the other hand, if you suppose the Water to rise only 15 cubits above the
+<pb n="17" facs="tcp:200280:11"/>Tops of the highest Mountains, it will not make 1/240 of the Solid Matter, which is too little to make the Earth into an Ele<g ref="char:EOLhyphen"/>ctuary, nay hardly into a Pill. Here it must be remember'd, that Dr. <hi>Woodward</hi> asserts, that the <hi>Aequilibrium</hi> is kept be<g ref="char:EOLhyphen"/>tween the Terrestrial Parts and the Water, and that there is no Transmutation of the one into the other.<note place="margin">
+                  <hi>p.</hi> 40.</note> But the strangest thing, and, if I may so speak, the Mira<g ref="char:EOLhyphen"/>cle of all Miracles is, that the Water and Solid Matter now mixt together, should either float upon a Vacuum, or the Subtil Matter that came in place of the Water of the Abyss; for in the internal Sphere whose Diameter is CA, there is neither Wa<g ref="char:EOLhyphen"/>ter nor Solid Matter, but it must be left as it is for the Solid Matter to form the <hi>Arched Expansum</hi> upon. This is turning Na<g ref="char:EOLhyphen"/>ture outside inward; the Bottom of the O<g ref="char:EOLhyphen"/>cean is now supported by Water, and the Water by the Air. Well, if the Dr. gives a Reason for this too, adieu Hydrostaticks.</p>
+            <p>I am now come to the Subsidence of the Matter of the Strata, and the ranging them in the present Order: and this pre<g ref="char:EOLhyphen"/>sents us with a most surprising Effect, which the Dr. has promised us the Reason of; <hi>viz. Why the Terrestrial Matter that first
+<pb n="18" facs="tcp:200280:12"/>subsided, did not descend dowm quite to the Centre, and sill up the Cavity of the great Abyss?</hi> First here must be Matter exact<g ref="char:EOLhyphen"/>ly of the same Specifick Gravity, to make it descend with the same Celerity, and arrive at the same distance from the Cen<g ref="char:EOLhyphen"/>tre in the same instant. Next, all these loose Particles, as by a Confederacy, must stop short; then when they had sunk quite down into the Water, the denser Fluid, they halt at the Confines of the subtiler Fluid, now lying about at the Centre; They all harden into a Crust in the same instant, and form an Arch of at least 2500 miles diameter; This Arch is neither broke by its own weight, nor that of the succeed<g ref="char:EOLhyphen"/>ing Strata. God forbid I should limit Omnipotency, but as to the Second Cau<g ref="char:EOLhyphen"/>ses, I must remain an Infidel till the Do<g ref="char:EOLhyphen"/>ctor's larger Work appears. I am sure <hi>Steno</hi>'s Rule of forming the Strata is more conformable to the known Laws of Na<g ref="char:EOLhyphen"/>ture. <hi>At the time that any Bed was formed,</hi>
+               <note place="margin">Prod. p. <hi>42.</hi>
+               </note>
+               <hi>there was another Body under the same Bed, which did hinder the farther Descent of that dusty Matter, and consequently at the same time that the lowest Bed was formed, there was under it either another solid Body; or, if some Fluid was there, it was both of a
+<pb n="19" facs="tcp:200280:12"/>different nature from the upper Fluid, and heavier than the Solid Sediment of the supe<g ref="char:EOLhyphen"/>riour Fluid.</hi> But this Notion of the Sub<g ref="char:EOLhyphen"/>sidence performed according to the dif<g ref="char:EOLhyphen"/>ferent Degrees of Specifick Gravity, be<g ref="char:EOLhyphen"/>ing the only piece of Philosophy the Dr. has gratified us with at present, I shall consider it more fully. And</p>
+            <p>First, I say, Observations of the Specifick Gravity of Bodies in the Circumstances required, and to the Nicety pretended, seem altogether impracticable. For we must remember that the Medium in which the undissolved Substances were floating, was not common Water, but a Medium (by reason of the mixture of Solid Matter) of an unknown Density, perhaps thicker than a Quagmire. This I believe will ap<g ref="char:EOLhyphen"/>pear pretty clear from what has been hint<g ref="char:EOLhyphen"/>ed above, about the Proportion of the Fluids and Solids.</p>
+            <p>Next, it is extremely hard to find the Specifick Gravity of Bodies reduced into small Particles, such as Sand and Earth. Now, the Minerals, when dissolved, were reduced either into their Elements or Pow<g ref="char:EOLhyphen"/>ders. If the latter, I cannot so well ap<g ref="char:EOLhyphen"/>prehend how, by a mixture with Water, they could form Masses of the same Mine<g ref="char:EOLhyphen"/>ral
+<pb n="20" facs="tcp:200280:13"/>again: for I think if Powder, Chalk, Flint, Marble, or any of those things of which the Strata are compos'd, should be mixed with Sea water, they will not be bak'd again into a Mass of the same Na<g ref="char:EOLhyphen"/>ture as soon as they arrive at the bottom; but if the Solids were reduced into their Elements, which I think the Dr. means by <hi>their constituent Parts,</hi> it is hard to tell what Specifick Gravity those would have: it is probable not the same with their Com<g ref="char:EOLhyphen"/>posita, which require a Mixture of hete<g ref="char:EOLhyphen"/>rogeneous Matter to make them up. Then it is very difficult to find the Specifick Gravity of Shells, and I must crave leave to say, Somebody has imposed upon the Dr. in pretending to distinguish between 2 ¾ and 2 ⅝ (that is, to the Nicety of 5/26) in the Gravity of <hi>Conchae, Pectines</hi> and <hi>Cochleae;</hi> and because Oyster-shells are but 1/15 lighter than those, they must not be ad<g ref="char:EOLhyphen"/>mitted into Sand-stone: on the contrary, I dare aver, it is impossible to determine the Specifick Gravity of <hi>Cochleae,</hi> for ex<g ref="char:EOLhyphen"/>ample; and let a Man weigh twenty of them, he shall have near as many different Proportions to determine their relative Gravity upon. For let us only consider, that all of them having a Cavity which is
+<pb n="21" facs="tcp:200280:13"/>never quite full of Water (at least it would never be so upon a casual Subsidence,) unless this Cavity, the Quantity of Mat<g ref="char:EOLhyphen"/>ter in the Crust, and the whole Bulk should bear exactly the same Proportion in them all, they must weigh differently in proportion to Water. Then we must con<g ref="char:EOLhyphen"/>sider that, when those sunk, the greater part had their Animals in them; which will make a greater Difference than what is here mentioned: yea, the Animals be<g ref="char:EOLhyphen"/>ing dead or alive will make some Altera<g ref="char:EOLhyphen"/>tion. But</p>
+            <p>Secondly, There is no such Rule for the Subsidence of Solids in Fluids as the Dr. pretends; for all Bodies descend with equal Celerity, abstracting from the Resi<g ref="char:EOLhyphen"/>stence of the Medium through which they fall. In Air he may try it, and he will find that a Leaden Bullet, and a Wooden Bullet let fall from the top of the Monument at the same time, will likewise arrive at the Ground both together, only making the Wooden Bullet bigger than the Leaden one: and in Water, where the Resistence of the Medium is very great, the Descent will be regulated as much ac<g ref="char:EOLhyphen"/>cording to the absolute as relative Gravi<g ref="char:EOLhyphen"/>ty: that is, the greatest and biggest Bo<g ref="char:EOLhyphen"/>dies
+<pb n="22" facs="tcp:200280:14"/>will descend with the greatest Cele<g ref="char:EOLhyphen"/>rity; for example, a Stone of an hun<g ref="char:EOLhyphen"/>dred weight will fall sooner to the bot<g ref="char:EOLhyphen"/>tom, than the Powder of the same Stone: And, generally speaking, of the Solids heavier than the Fluid, those which con<g ref="char:EOLhyphen"/>tain a greater Quantity of Matter, in re<g ref="char:EOLhyphen"/>spect of their Surface, will descend fastest; as a Globe of Gold sooner than the same Quantity in Leaf: and a Globé of Stone sooner than a less<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Globe of Gold, if it contain a greater Quantity of Matter, in respect of its Surface, than the Globe of Gold; and yet the Gold has the same Spe<g ref="char:EOLhyphen"/>cifick Gravity in Leaf and in a Globe, and the Stone a less Specifick Gravity than the Gold. The Consequence of this will be, that the Parts of Animals, which were the greater Solids, could never be buried in Matter of the same Specifick Gravity with themselves: Yea, throw an Oyster-shell into Water, and at the same time the con<g ref="char:EOLhyphen"/>stituent Parts of the heaviest Metals, the Shell will fall soonest to the bottom; and where the Depth was some hundreds of Miles, as at the general Subsidence, the difference would be considerable. By the same Rule, the larger Grains of Sand would fall lower than the imper<g ref="char:EOLhyphen"/>ceptible
+<pb n="23" facs="tcp:200280:14"/>constituent Parts of other Fos<g ref="char:EOLhyphen"/>sils.</p>
+            <p>Thirdly, Granting the Doctor's Rule to be true, it was not observed; I do not deny but the <hi>Strata</hi> near the Surface of the Earth look like a Sediment, where some<g ref="char:EOLhyphen"/>thing of the Laws of Gravity are observ'd. But they will not answer the Doctor's Theory, so far down as he talks of. There is in <hi>Varenius</hi> an account of the Strata, as they were found,<note place="margin">
+                  <hi>p.</hi> 46.</note> to the Depth of 132 Feet, on the sinking of a Pit at <hi>Amsterdam, viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Feet</cell>
+                  </row>
+                  <row>
+                     <cell>Garden Mould</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Turf</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Soft Clay</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Sand</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Earth</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Clay</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Earth</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sand, in which the Piles for the <hi>Am<g ref="char:EOLhyphen"/>sterdam</hi> Buildings are sixed.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>White Gravel</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Dry Earth</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Mud</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Sand</cell>
+                     <cell>14</cell>
+                  </row>
+                  <pb n="24" facs="tcp:200280:15"/>
+                  <row>
+                     <cell>Sandy Clay</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Sand mixt with Clay</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Sand mixt with Sea shells.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>A Clayey Bottom to the depth of</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>Gravel</cell>
+                     <cell>31</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Here it is plain, they are not plac'd accor<g ref="char:EOLhyphen"/>ding to their different Gravities; for sometimes the heavier lies uppermost; the same <hi>Strata</hi> (after the interposition of both lighter and heavier ones) are re<g ref="char:EOLhyphen"/>peated; and sometimes the Order is retro<g ref="char:EOLhyphen"/>grade. I think it is very probable they are the Sediment of a Fluid, but not pre<g ref="char:EOLhyphen"/>cipitated at the same time, <hi>and determin'd to Subsidence in this Order,</hi> merely by <hi>their different specifick Gravities;</hi> on the contra<g ref="char:EOLhyphen"/>ry their Diversity and Order seems ra<g ref="char:EOLhyphen"/>ther to persuade that they were compiled by little and little, and at different times; which, considering the Scituation of the Country, is no hard matter to conceive. Something analogous to this I rightly re<g ref="char:EOLhyphen"/>member is to be found in <hi>Ramazzini</hi>'s De<g ref="char:EOLhyphen"/>scription of the sinking of the Wells of
+<pb n="25" facs="tcp:200280:15"/>
+               <hi>Modena.</hi> But supposing those were rang'd, as the Doctor would have them, what is that to a Crust 1000 Miles thick? Here it were endless to enumerate all the Particulars wherein the Doctor's Rule is violated, these following are obvious; 1. <hi>The Precipitation of the lighter vegetable terrestrial Matter,</hi>
+               <note place="margin">Nat. Hist. 90.</note>
+               <hi>and burying it among the</hi> Strata, <hi>leaving only so much near the Sur<g ref="char:EOLhyphen"/>face, as might sufficiently supply the Wants of humane Nature.</hi> Thus the principal inten<g ref="char:EOLhyphen"/>tion of Providence in the Dissolution of the Earth, was brought to pass by a Vio<g ref="char:EOLhyphen"/>lation of the Law of specifick Gravity. 2. The heaviest Bodies, we know, are near the Surface of the Earth many hundreds of Miles from the lowest <hi>Stratum,</hi> which could not have happen'd had the Celerity of their descent kept any manner of proportion with their specifick Gravity. 3. Bodies of diffe<g ref="char:EOLhyphen"/>rent specifick Gravities are found buried in the same <hi>Stratum;</hi> as Shells and Flint in Chalk. And here I must take notice, that it seems hard to bury Plants under ground after the Doctor's manner, who does it by affixing Mineral Matter to them: For up<g ref="char:EOLhyphen"/>on the general Dissolution, the Plants would get a-top of the Water, and if any should fall in among Minerals, that would
+<pb n="26" facs="tcp:200280:16"/>buoy them up so much the more: For example; I cannot imagin how a Plant that was swimming in Water should sink in a Mass of Quicksilver. I shall con<g ref="char:EOLhyphen"/>clude with this general Remark; It is strange that the Laws of Gravity, which have been violated in so many particu<g ref="char:EOLhyphen"/>lars, in raising the Water of the Abyss, and making a lighter Body, descend in its room; in sustaining Minerals in Wa<g ref="char:EOLhyphen"/>ter, and stopping them in their Descent before they reach'd the Centre; in place<g ref="char:EOLhyphen"/>ing the heaviest Solids in the upper Stra<g ref="char:EOLhyphen"/>ta, <hi>&amp;c.</hi> I say, it is strange the same Laws of Gravity should place a few Shells with as much Nicety, as the Doctor does in his Collection, not transgressing so far as a fifteenth part.</p>
+            <p>I come now to the effect of this Sub<g ref="char:EOLhyphen"/>sidence, which is the Plainness, Parallelism, and spherical Figure of the Strata; I say none of these could be true; first, They could not be plain; for a spherical Surface cannot be so; however, that is a Mistake of a Word, which should be pardon'd. Secondly, They could not be spherical:<note place="margin">
+                  <hi>pag.</hi> 225.</note> The Doctor acknowledges the Earth to be a <hi>Spherois prolatus</hi> (and there is a great difference between a <hi>Sphere</hi> and a <hi>Spha<g ref="char:EOLhyphen"/>roid</hi>)
+<pb n="27" facs="tcp:200280:16"/>and if a <hi>Sphaeroid,</hi> the Strata could not be parallel. I shall beg leave to add one reason why I think they could not be smooth a-top, and it is this; <hi>The terre<g ref="char:EOLhyphen"/>strial parts</hi> (according to the Doctor) <hi>set<g ref="char:EOLhyphen"/>tled down in or near the same places from which they were before taken;</hi>
+               <note place="margin">
+                  <hi>pag.</hi> 261.</note> but to make them smooth, each solid Column, or to speak more properly, each truncated Se<g ref="char:EOLhyphen"/>ctor must have been of the same bulk, and the Matter of the same density; of the same bulk, else there would have been outward or inward Inequalities, where there was a difference in Extension; and of the same Density, else the several Co<g ref="char:EOLhyphen"/>lumns could not balance themselves exact<g ref="char:EOLhyphen"/>ly in the subsidence, but one would have been higher than another; both these would have produc'd Mountains and Val<g ref="char:EOLhyphen"/>lies. Now since there were antediluvian Mountains, it would seem that the Co<g ref="char:EOLhyphen"/>lumns of the Earth had not been made up of Matter with both the foremention'd Properties. And if from the first Fluid at the Creation, the Matter had settl'd with the inequalities of Mountains and Vallies, I cannot see why it should not have done so from the Fluid at the Deluge. Howe<g ref="char:EOLhyphen"/>ver this is only a Conjecture.</p>
+            <pb n="28" facs="tcp:200280:17"/>
+            <p> I have done with Four parts of the Operation; there are <hi>infund. Misc. dissolv. praecipit.</hi> And now comes the Fifth, <hi>sub<g ref="char:EOLhyphen"/>limetur;</hi> I mean, the Dislocation of the Strata. Here I shall remark, <hi>First,</hi> That it must have been a prodigious force that could dislocate a Crust 1000 Miles thick at least (as will follow from my former Reasoning, concerning the Proportion of the Cavity of the great Abyss to the so<g ref="char:EOLhyphen"/>lid Annulus). <hi>Secondly,</hi> It seems won<g ref="char:EOLhyphen"/>derful that the Shell of the Bomb should be only crackt and not shatter'd to pieces. <hi>Thirdly.</hi> It is next to Impossible, that an Agent seated within the Cavity of the great Abyss, at the depth of 1000 Miles, should have been the cause of so many minute Alterations upon the Surface: Many of the Ruins that appear to us, seem to point at Agents far less remote. <hi>Fourthly,</hi> It is more miraculous still, that this Globe should be crack'd into the same Figure it had before the Deluge, into equal Cavities and Eminencies, and alike scituated with those it had then. I grant that the steady Hand of the Al<g ref="char:EOLhyphen"/>mighty Creator could do this, and much more; but where was the necessity of such a Miracle. The Doctor indeed wants it,
+<pb facs="tcp:200280:17"/>else it is impossible to solve the Identity of the ante-diluvian and post-diluvian Geo<g ref="char:EOLhyphen"/>graphy which <hi>Moses</hi> supposes.<note place="margin">
+                  <hi>Gen.</hi> c. 2.</note> There mu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be <hi>Pison, Gihon, Hiddekel,</hi> and <hi>Euphrates</hi> watering the same Countries, as well af<g ref="char:EOLhyphen"/>ter the Deluge as before; and yet this will not agree with the Doctor's Hypo<g ref="char:EOLhyphen"/>thesis; for this post-diluvian <hi>Gihon</hi> is not numerically the same as <hi>Moses</hi> asserts,<note place="margin">
+                  <hi>Gen.</hi> 2.13.</note> but a River sprung up near the same place. I wish the Compilers of Theories would have more regard to <hi>Moses</hi>'s Relation, which surpasses all the accounts of Philo<g ref="char:EOLhyphen"/>sophers as much in Wisdom, as it doth in Authority. The Doctor is not singu<g ref="char:EOLhyphen"/>lar in this, it is but too common a Fault now a-days. Now, I believe it will be hard to reconcile the Doctor's History of the Deluge with that of <hi>Moses,</hi> for these Reasons; <hi>First, Moses</hi> describes the great<g ref="char:EOLhyphen"/>est height of the Water above the Sur<g ref="char:EOLhyphen"/>face of the Earth, to have been after the Inundation, by telling us it was 15 Cu<g ref="char:EOLhyphen"/>bits above the highest Mountains. Accor<g ref="char:EOLhyphen"/>ding to the Doctor, its greatest height was, after the <hi>Subsidence and Disruption of the Strata</hi> when the whole Mass of Water lay above them, constituting a fluid Sphere, and then to be sure it was higher by all
+<pb n="30" facs="tcp:200280:18"/>the height of the Mountains: But by what has been said before, it will be found to exceed 450 Miles. <hi>Secondly, Moses</hi> seems to attribute a great part of the Inundation to Rain-Water, which was not worthy to be nam'd in respect of the whole Mass of Fluids, enough to dissolve the terrestrial Globe. <hi>Thirdly, Moses</hi> and the Doctor differ, as to the manner of the decreasing of the Waters;<note place="margin">
+                  <hi>Gen.</hi> c 8.1, 2.</note> for <hi>Moses</hi> tells us, That God made a Wind to pass over the Earth, and the Waters asswaged; and that the Fountains of the deep were stop'd; the Doctor ought to read <hi>open'd. Moses</hi> says the Fountains of the Abyss were stopt, that there should no more Water come upon the face of the Earth; and the Doctor says that they were opened by the Disruption of the Strata, to let that which was already upon the face of the Earth, fall back again. <hi>Moses</hi> tells us the Waters asswaged by a Wind, and the Doctor by their retiring into the Ca<g ref="char:EOLhyphen"/>vity of the great Abyss. <hi>Fourthly,</hi> Ac<g ref="char:EOLhyphen"/>cording to <hi>Moses,</hi> the ante-diluvian Plants were standing rooted in the ground after the Deluge; at least, one Olive-Tree was so. This is so inconsistent with the Dis<g ref="char:EOLhyphen"/>solution of the very uppermost Strata,
+<pb n="31" facs="tcp:200280:18"/>which tore up all. Plants by the roots; that there was an Olive standing, is plain, else a Leaf pluckt off from it by the Pi<g ref="char:EOLhyphen"/>geon, could be no sign to <hi>Noah</hi> of the abatement of the Waters; for it was im<g ref="char:EOLhyphen"/>possible to tell by the Leaf whether it was floating or not. I might here add, that it seems strange, that of five great Alterations Dr. <hi>Woodward</hi> describes, <hi>Moses</hi> should men<g ref="char:EOLhyphen"/>tion only the first; and, after such a parti<g ref="char:EOLhyphen"/>cular Account of the Creation of the Earth, should not take any notice of its no less mira<g ref="char:EOLhyphen"/>culous second Creation. That there should not be so much as a word of the wonderful Changes that were transacted under Water: How the Mountains had been taken away, and at the end of 150 days restored again. Nay, quite the contrary, <hi>Moses</hi> seems to find the Mountains just where he lest them. They never stir'd out of their Place, from the time that they were overflow'd with the Water 15 cubits, till the Ark rest<g ref="char:EOLhyphen"/>ed upon them.</p>
+            <p>I have one Difficulty remaining concer<g ref="char:EOLhyphen"/>ning the Doctor's Original of Fountains produced by Subterranean Heat, <hi>which e<g ref="char:EOLhyphen"/>vaporates and elevates the Matter of the A<g ref="char:EOLhyphen"/>byss, buoying it up indifferently on every side,</hi>
+               <note place="margin">p 121.</note>
+               <hi>and towards all parts of the Surface of the
+<pb n="32" facs="tcp:200280:19"/>Globe.</hi> It seems hard to make Vapour pervade a Crust 1000 miles thick. To this the Dr. answers, <hi>That it is perforated, and the Water of the Abyss fills up all these Fissures as far as the Level of the Ocean, with which it communicates.</hi> But this throws us into a greater Inconveniency; for there being Fountains in every place, to say the solid Crust is so perforated, is little better than to say it is so thin; or, which is worse, there would be an Arch of 1000 miles thick in some places, and hardly three in others: I am afraid such a one would soon tumble. The Dr. must consider that this Cupola of his has a prodigious Diameter, and ought to have a proportionable Thick<g ref="char:EOLhyphen"/>ness and Solidity. When it has so, the Attraction of the Matter above will be considerable.</p>
+            <p>Another thing to be observed is, that the Water of the Abyss being in one Ves<g ref="char:EOLhyphen"/>sel, the Heat will diffuse it self uniformly through it all. And a swinging Quantity of Heat it must be, that will set such a Ket<g ref="char:EOLhyphen"/>tle a boyling. But then the Consequence is, that the Water of the Sea will be heat<g ref="char:EOLhyphen"/>ed to, since that is one with the Water of the Abyss: For, according to the Doctor, the Channel of the Ocean, the Cavity of
+<pb n="33" facs="tcp:200280:19"/>the great Abyss, and the Fissures by which they communicate, make but one Vessel, like a Bottle with a long Neck, and a Funnel join'd to the top of it; and I be<g ref="char:EOLhyphen"/>lieve it would be difficult to heat one part of the Water in such a Vessel without the rest.</p>
+            <p>It may be a just prejudice against the Solidity of the foregoing Objections, that <hi>Steno</hi> a famous Mathematician and Philo<g ref="char:EOLhyphen"/>sopher is commonly reckon'd the Author of this Hypothesis; to take off which, I shall prove that in those parts that are most exceptionable, the Doctor's Philosophy is different from <hi>Steno</hi>'s. This I cannot do better than by comparing both their Per<g ref="char:EOLhyphen"/>formances, they being the most remarka<g ref="char:EOLhyphen"/>ble Philosophers that have appear'd upon this Subject.</p>
+            <p>First, <hi>Steno</hi>'s dissertation was a Prodro<g ref="char:EOLhyphen"/>mus to a greater Work as well as the Do<g ref="char:EOLhyphen"/>ctor's; and he tells you, <q>That it was a succinct,<note place="margin">Prod. p. <hi>109.</hi>
+                  </note> not to say a tumultuary Re<g ref="char:EOLhyphen"/>lation of the chief things which in the Dissertation it self he intended to explain more distinctly and more largely; toge<g ref="char:EOLhyphen"/>ther with a Description of the Places where he had observed every particular.</q> But that the Reader may the better per<g ref="char:EOLhyphen"/>ceive
+<pb n="34" facs="tcp:200280:20"/>in what they differ, and in what they agree, I thought sit to put those few Pas<g ref="char:EOLhyphen"/>sages, which I had leisure at present to pick out of both their Writings, in two different Characters, <hi>Steno</hi>'s in Roman, the Doctor's in Italick.</p>
+            <div type="part">
+               <head>STENO.</head>
+               <p>In this Argument the Ancients were exercised with one only Difficulty,<note place="margin">Prod. p. <hi>10.</hi>
+                  </note> which was, how Marine Bodies came to be left in places remote from the Sea: nor was it ever made a Question amongst them whether such Bodies came from any place else than the Sea.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>The Antients never made any question but that they were the Exuviae of Shell-Fish,<note place="margin">
+                     <hi>p.</hi> 67.</note> and that they once belonged all to the Sea. But the Difficulty was, how they came thither, and by what means they they could ever arrive to places oftentimes so remote from the Ocean.</p>
+            </div>
+            <div type="part">
+               <pb n="35" facs="tcp:200280:20"/>
+               <head>STENO.</head>
+               <p>Those Bodies not only resemble one another,<note place="margin">Cani<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. p. <hi>116.</hi>
+                  </note> but also the Parts of the Animals to which they belonged: nor is there any difference in the ten<g ref="char:EOLhyphen"/>dency of the Striae, the Composition of the Lamellae, the Whirls and Win<g ref="char:EOLhyphen"/>dings of the Cavities, or in the Join<g ref="char:EOLhyphen"/>ings and Hinges of their Bivalves. In some Places there are found several dissimilar Oyster-shells, and sticking together, after the manner they are found at Sea.<note place="margin">ibid. p. <hi>132.</hi>
+                  </note> If some Shells are found broken, the Edge of the Fragment demonstrates that the other was for<g ref="char:EOLhyphen"/>merly joined to it, which likewise is sometimes found near the same place. Since it is so easie to observe when more regular Bodies recede from their usual Figure, how much easier must it be to find Defects in Bodies of a much more composed Figure; such as
+<pb n="36" facs="tcp:200280:21"/>those are which imitate the Parts of Animals.</p>
+               <p>In his <hi>Prodromus</hi> he is more parti<g ref="char:EOLhyphen"/>cular.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>The Tendency of the Fibres and Striae the same: the Composition of the Lamel<g ref="char:EOLhyphen"/>lae,<note place="margin">
+                     <hi>p.</hi> 22.</note> constituted by those Fibres, alike in both: the same Vestigia of Tendons (by means whereof the Animal is fastened and joined to the Shell) in each: the same Papillae: the same Sutures and every thing else, whether within or without the Shell, in its Cavity, or upon its Convexi<g ref="char:EOLhyphen"/>ty, in the Substance or upon the Surface of it. Besides, these Fossil Shells are attended with the ordinary Accidents of the Marine ones, <hi>ex. gr.</hi> they sometimes grow to one another, the Lesser Shells being fixed to the Larger.</p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:200280:21"/>
+               <head>STENO.</head>
+               <p>The Shells that lie under ground may be reduced to three sorts.<note place="margin">Prod. p. <hi>81.</hi>
+                  </note> The first is of those that are so like the true ones <hi>(which he had before most in<g ref="char:EOLhyphen"/>geniously described)</hi> as an Egg is to an Egg; forasmuch as the Shells them<g ref="char:EOLhyphen"/>selves are resolved into little▪ Shells, and the little Shells into Threads; as also the same Position or Site.</p>
+               <p>That these Shells were once the parts of Animals living in a Fluid; tho there never had been seen any Testaceous Marine Creatures, the very View of the Shell it self evinceth, as may be made evident by the in<g ref="char:EOLhyphen"/>stance of Bivalve Cockle-shells.<note place="margin">
+                     <hi>P.</hi> 82.</note>
+                  <hi>From the Condition of which, he draws several Conclusions about the manner of their For<g ref="char:EOLhyphen"/>mation, by a Sagacity peculiar to him<g ref="char:EOLhyphen"/>self.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:200280:22"/>
+               <head>Dr. Woodward.</head>
+               <p>That there are vast Multitudes of Shells contained in Stone, &amp;c. free from any Mineral Contagion; which are to be match'd by others at this day found upon our Shores, and which do not differ in any respect from them, being of the same Size that these are of, and the same Shape precisely; of the same Substance and Texture; as consisting of the same peculiar Matter: and this constituted and disposed in the same manner as it that of their respective Fellow Kinds at Sea, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>The second Sort,<note place="margin">
+                     <hi>p.</hi> 83.</note> is of those Shells, which in the rest are like to the lately described ones, but differ from them only in Colour and Weight; in re<g ref="char:EOLhyphen"/>gard that some of them are found too light, others too heavy: for as much as these have Pores filled up with an adventitious Juice, but the
+<pb n="39" facs="tcp:200280:22"/>Pores of those are widened by the expulsion of the lighter Parts.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>They meet with some that were in all appearance Shells:<note place="margin">
+                     <hi>p.</hi> 18.</note> that were of the same Bigness, Figure and Texture with the common Echini, Scallops and Periwin<g ref="char:EOLhyphen"/>kles; but had notwithstanding Flint, Na<g ref="char:EOLhyphen"/>tive Vitriol, Spar, Iron Ore, or other metallick or mineral Matter, either ad<g ref="char:EOLhyphen"/>hering firmly in Lumps to the Outsides of them, or insinuated into their Sub<g ref="char:EOLhyphen"/>stance, into their Pores and inner parts, so as to disguise them very much, and give them a Face and Mien extremely unlike to that of those Shells which are at this day found at Sea.</p>
+               <p>That for the metallick and mineral Matter which sometimes adheres to the Surface of these Shells,<note place="margin">
+                     <hi>p.</hi> 21.</note> or is intruded in<g ref="char:EOLhyphen"/>to their Pores, and lodged in the Interstices of their Fibres, 'tis all manifestly adven<g ref="char:EOLhyphen"/>titious;
+<pb n="40" facs="tcp:200280:23"/>the mineral Particles being plain<g ref="char:EOLhyphen"/>ly to be distinguished from the testaceous ones, or the Texture and Substance of the Shell, by good Glasses, if not by the na<g ref="char:EOLhyphen"/>ked Eye.</p>
+               <p>That there were found certain Bodies that bore the Shape and Resemblance of Cockles,<note place="margin">
+                     <hi>p.</hi> 18.</note> Muscles and other Shells, which yet were not really such, but consisted en<g ref="char:EOLhyphen"/>tirely, some of them of Sand stone, others of Flint, and others of Spar, or some other mineral Matter.<note place="margin">
+                     <hi>p.</hi> 20.</note> That the above<g ref="char:EOLhyphen"/>mentioned Bodies, which consist of Stone, of Spar, Flint, and the like; and yet carry a Resemblance of Cockles, Muscles, and other Shells; were originally formed in the Cavities of Shells of those kinds which they so resemble; these Shells ha<g ref="char:EOLhyphen"/>ving served as Matrices or Moulds to them.</p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>
+                  <note place="margin">Prod. p. <hi>84.</hi>
+                  </note>The third sort is of such as in their Figure alone resemble those that were
+<pb n="41" facs="tcp:200280:23"/>newly discoursed of, but for the rest, totally differ from them; seeing that in them are to be found neither the little Shells nor the Threads, much less the Diversity of the Threads. Of these, some are aereal, some lapide<g ref="char:EOLhyphen"/>ous of either a black or yellow Co<g ref="char:EOLhyphen"/>lour, others Marbly, others Crystal<g ref="char:EOLhyphen"/>line, others of other Matter. The Production of all which I explain in manner following,</p>
+               <p>Where the penetrating Force of Jui<g ref="char:EOLhyphen"/>ces hath dissolved the Substance of the Shell, the same Juices being either drank up by the Earth, have left the spaces of Shells void (which I call aereal Shells) or being alter'd by new adventitious Matter; have, according to the Variety of that Matter, filled up the same spaces of Shells either with Crystal, with Marble, or with Stone, &amp;c. <hi>Then he gives an account of a great many Rarities of that Kind, and con<g ref="char:EOLhyphen"/>cludes,</hi>
+                  <pb n="42" facs="tcp:200280:24"/>What hath been said of Shells,<note place="margin">
+                     <hi>p.</hi> 87.</note> the same may be said of other Parts of Animals, and of the Animals them<g ref="char:EOLhyphen"/>selves buried under ground; of which number are the Teeth of Sea-Dogs, the Teeth of the Fish <hi>Aquila,</hi> Fishes Back-bones, all sorts of whole Fishes Skulls, Horns, Teeth, Thigh-bones, and other Bones of Terrestrial Ani<g ref="char:EOLhyphen"/>mals. And</p>
+               <p>What is said of Animals and their Parts suiteth likewise with Plants,<note place="margin">
+                     <hi>p.</hi> 93.</note> and the Parts of Plants, whether they be digged out of Earthen Beds, or lodg'd within stony Substances.</p>
+               <p>Of these <hi>Dr. Woodward</hi> observes,<note place="margin">N.H. p. <hi>275</hi>
+                  </note>
+                  <hi>That He has never met with so much as one Plant that is peculiar to any other Season of the Year than</hi> May.</p>
+               <pb n="43" facs="tcp:200280:24"/>
+               <p> From all which, and a great deal more that I might add, it is plain, 1. that <hi>Steno</hi>'s Observations about those Bodies, have been both very full and true, being confirmed by those of Dr. <hi>Woodward;</hi> made perhaps from the best Collection of such Curiosi<g ref="char:EOLhyphen"/>ties, that has yet been seen any where. 2. That <hi>Steno</hi> was very much persuaded that those were the real <hi>Exuviae</hi> of Ani<g ref="char:EOLhyphen"/>mals, and has made use of fit Arguments to convince others. Dr. <hi>Woodward</hi> men<g ref="char:EOLhyphen"/>tions two indeed, which I do not find in <hi>Steno:</hi> 1. That those Shells answer Chy<g ref="char:EOLhyphen"/>mical Tryals: And 2. have the same Ef<g ref="char:EOLhyphen"/>fect in Medicine when <hi>inwardly administra<g ref="char:EOLhyphen"/>ted to Animal Bodies.</hi> The first of these the Learned Dr. <hi>Hook</hi> mentions in his <hi>Micrography,</hi>
+                  <note place="margin">
+                     <hi>p.</hi> 110.</note> which was published be<g ref="char:EOLhyphen"/>fore <hi>Steno</hi>'s <hi>Prodromus,</hi> and contains a most accurate Description of those marine Bodies. As to the second, I think it of so little weight in respect of any of the former, that I wonder the Doctor should break his Collection to try those Shells upon his Patients, which he was satisfied were genuine before by ocular Inspection; and I am still more in the dark how he could have discovered by the Difference of the Effect, if they had not been genuine.</p>
+               <pb n="44" facs="tcp:200280:25"/>
+               <p> As to the Theories devised to solve this Appearance of marine Bodies lodg'd in the <hi>Strata, Steno</hi> and the Doctor differ chiefly in these two things: 1. <hi>Steno</hi> is not so positive as the Doctor;<note place="margin">
+                     <hi>Can.</hi> 135.</note> for what he has delivered in his <hi>Canis Carchariae dis<g ref="char:EOLhyphen"/>sectum caput</hi> he calls only Conjectures, and tells us, that while he shews his own O<g ref="char:EOLhyphen"/>pinion to be probable, he does not charge the Patrons of the contrary one with mi<g ref="char:EOLhyphen"/>stake; that the same Appearance may be solved different ways, and that Nature attains her ends in her operations by dif<g ref="char:EOLhyphen"/>ferent means; that it were a very impru<g ref="char:EOLhyphen"/>dent thing to admit only one as true, and condemn all the rest. Dr. <hi>Woodward</hi> on the contrary affirms,<note place="margin">Nat. Hist. p. <hi>74.</hi>
+                  </note> that, in his Trea<g ref="char:EOLhyphen"/>tise of the <hi>Natural History of the Earth,</hi> he has described no Alterations of this Globe, for which we <hi>have not an absolute and demonstrative Certainty.</hi> The second Difference is, that Dr. <hi>Woodward</hi> extends the several Branches of <hi>Steno</hi>'s Theory, and makes them more universal. Both these will appear by what follows.</p>
+               <pb n="45" facs="tcp:200280:25"/>
+               <p>
+                  <hi>First,</hi> as to the TIME when those ma<g ref="char:EOLhyphen"/>rine Bodies were lodg'd there.</p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>That there is nothing hinders,<note place="margin">Can. 117.</note> but that we may believe the Earth, where these marine Bodies are found, was formerly covered with Water. That from Sacred Writ we learn, That at the beginning of the Creation and the time of the Deluge, all things were so. <hi>He proves it could not be the former,</hi>
+                  <note place="margin">Pr. p. <hi>99.</hi>
+                  </note> since that fluid was aqueous at the time when there were yet no Animals nor Plants. That 'tis certain that the Production of many Shells were meet with in our days,<note place="margin">Pr. p. <hi>90.</hi>
+                  </note> is to be referr'd to the Times coincident with the general Deluge.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>
+                  <hi>That they were not left behind at the beginning of the World, when the Sea over-spread the whole Globe,</hi>
+                  <note place="margin">Nat. Hist <hi>42.</hi>
+                  </note>
+                  <hi>till its re<g ref="char:EOLhyphen"/>treat
+<pb n="46" facs="tcp:200280:26"/>into its assign'd Channel; and that the Waters were gathered together into one place, the third Day from the commence<g ref="char:EOLhyphen"/>ment of the Creation.</hi>
+                  <note place="margin">Nat. Hist. <hi>72.</hi>
+                  </note>
+                  <hi>That those marine Bodies were born forth of the Sea by the universal Deluge; and that upon the re<g ref="char:EOLhyphen"/>turn of the Water back again from off the Earth, they were left behind at Land. That they could never have been put into the condition we now find them,</hi>
+                  <note place="margin">
+                     <hi>ibid.</hi> 40.</note> by any such short and partial Agents as those pro<g ref="char:EOLhyphen"/>posed <hi>by other Authors.</hi>
+               </p>
+               <p>
+                  <hi>The Difference between the Doctor and</hi> Steno <hi>in this particular is, That though</hi> Steno <hi>admits the Deluge as one, he does not with the Doctor exclude other partial Agents, as Inundations by Earthquakes,</hi> &amp;c.</p>
+               <p>Next, <hi>as to the MANNER of the Deluge.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>It may be explained,<note place="margin">
+                     <hi>Pr.</hi> 104.</note> if we place about the Fire in the middle of the
+<pb n="47" facs="tcp:200280:26"/>Earth a Sphere of Waters, or at least certain Receptacles of them, whence without the motion of the Center, the powring forth of the included Water may be deduced:</p>
+               <p>That the Water which is un<g ref="char:EOLhyphen"/>doubtedly in the Bowels of the Earth,<note place="margin">
+                     <hi>Pr.</hi> 105.</note> was, by the force of the ac<g ref="char:EOLhyphen"/>knowledged subterranean Fires, part<g ref="char:EOLhyphen"/>ly driven toward the Springs, and partly thrust forth through the Pores of the not yet drowned Earth into the Air.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>
+                  <hi>That there is a mighty collection of Water inclosed in the Bowels of the Earth, constituting an huge Orb in the interiour or central Parts of it;</hi>
+                  <note place="margin">Nat. Hist. <hi>117.</hi>
+                  </note>
+                  <hi>upon the Surface of which Orb of Water, the terrestrial Strata are expanded That this is the same which</hi> Moses <hi>calls the</hi> great Deep, <hi>or</hi> Abyss. <hi>The antient Gentile Writers</hi> Erebus <hi>and</hi> Tartarus.</p>
+               <pb n="48" facs="tcp:200280:27"/>
+               <p>
+                  <hi>This at the Deluge was brought out upon the Surface of the Globe.</hi>
+                  <note place="margin">Nat. Hist. <hi>164.</hi>
+                  </note>
+               </p>
+               <p>The Difference between <hi>Steno</hi> and the Doctor in this particular, is, 1. That the first endeavours to explain how the Water that was included in the Bowels of the Earth, might be brought upon its surface; the other raises the Water of Springs much after the same manner, but has not yet told us how he raises the Water of the Deluge. 2. The Doctor places his sub<g ref="char:EOLhyphen"/>terranean Fire above his Waters; but <hi>Steno</hi> his Waters above the Fire.</p>
+               <p>As to the dissolution of the solid Mat<g ref="char:EOLhyphen"/>ter in which those marine Bodies are in<g ref="char:EOLhyphen"/>cluded, that it was in a state of fluidity at the time of their being lodg'd there, is an evident Proposition, supposing them to be genuine; but the different Opinions of the Two Philosophers, as to this mat<g ref="char:EOLhyphen"/>ter, are as follows.</p>
+            </div>
+            <div type="part">
+               <head>STENO</head>
+               <p>I hinted in the foregoing Proposi<g ref="char:EOLhyphen"/>tion, that the Earth, in which those Bodies are found, might have been
+<pb n="49" facs="tcp:200280:27"/>formerly covered with Water; now I proceed to prove, That the same Earth might have been likewise min<g ref="char:EOLhyphen"/>gled with the Water.<note place="margin">Can's Cor. p. <hi>122.</hi>
+                  </note> That Land-Floods and the Agitation of Waters by Wind, demonstrate that Sand and Earth may be mix'd with Water; and that it were not hard to prove, that Sand-earth, Sand-stone, and all o<g ref="char:EOLhyphen"/>ther kinds of Solids, are oftentimes contain'd in standing and clear Wa<g ref="char:EOLhyphen"/>ter. That there are two ways how Solids may be contained in Water, <hi>viz.</hi> Either in the Powder or Ele<g ref="char:EOLhyphen"/>ments; the former way all sorts of Salts are combin'd with it. That the Elements of Solids may be la<g ref="char:EOLhyphen"/>tent in Water two ways, either really as they are in themselves, or Bodies; which putting on another Figure, are transform'd into these Solids.<note place="margin">Ibid. 11<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> That it is easie to find the places whence those Solids might have been com<g ref="char:EOLhyphen"/>municated
+<pb n="50" facs="tcp:200280:28"/>to the Water which co<g ref="char:EOLhyphen"/>vered the Earth where those marine Bodies are found. And since it is so, we need not wonder, if either the Powder or Elements of Clay, Gra<g ref="char:EOLhyphen"/>vel, Sand-stone, and other sorts of Stone, were formerly mixed with, and contained in the Water.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>That at the Time of the Deluge (when these Shells were brought out upon the Earth,<note place="margin">Nat. Hist. p. <hi>29.</hi>
+                  </note> and reposed therein in the man<g ref="char:EOLhyphen"/>ner we now find them) Stone, and all other solid Minerals, lost their Solidity; and that the sever'd Particles thereof, together with those of the Earth, Chalk, and the rest, as also Shells, and all o<g ref="char:EOLhyphen"/>ther animal and vegetable Bodies were taken up into, and sustained in the Wa<g ref="char:EOLhyphen"/>ter. And,<note place="margin">ibid. p. <hi>74.</hi>
+                  </note> in a Word, That all Fossils whatever, that had before obtain'd any Solidity, were totally dissolv'd, and their
+<pb n="51" facs="tcp:200280:28"/>constituent Corpuscles all disjoin'd, their Cohe<g ref="char:EOLhyphen"/>sion perfectly ceasing.<note place="margin">Preface.</note> That the whole ter<g ref="char:EOLhyphen"/>restrials Globe was taken all to pieces, and dissolv'd; at the Deluge. <hi>But</hi> what was the immediate Instrument or Means where<g ref="char:EOLhyphen"/>by the Stone and other solid Matter of the antediluvian Earth was dissolved and reduced to the Condition mentioned; <hi>the Doctor has promis'd to tell us in his larger Work.</hi>
+                  <note place="margin">Nat. Hist. p. <hi>108.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>The Reader may easily perceive, that Dr.</hi> Woodward <hi>is 1. more particular as to the Time of this Mixture of Solids and Fluids. <hi>2ly.</hi> That he has made it more universal as to the Subject, extending it to the whole Mass of Solids that constitute the Globe; this I must needs say is the Parent of the numerous Difficulties which press the Doctor's Hypothesis.</hi> 3ly. Steno <hi>has given us the Philosophy of his Mix<g ref="char:EOLhyphen"/>ture, but we still impatiently expect the Doctor's. As to the Subsidence, their Opinions are;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:200280:29"/>
+               <head>STENO.</head>
+               <p>That the Bodies which made the Water turbid,<note place="margin">Can. Car. p. <hi>12<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note> the violent motion ceasing, must have sunk to the bot<g ref="char:EOLhyphen"/>tom. That they were not all of the same gravity: whence it came that the heaviest subsided first; the less heavy subsiding next after; and the lightest floated longest of all nearest the bottom, before they joyned them<g ref="char:EOLhyphen"/>selves to it: whence, from the same Sediment there would be formed different Strata.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>
+                  <hi>That at length, all the Mass that was thus born up the Water,</hi>
+                  <note place="margin">Nat. Hist. p. <hi>75.</hi>
+                  </note>
+                  <hi>was again pre<g ref="char:EOLhyphen"/>cipitated, and subsided towards the bot<g ref="char:EOLhyphen"/>tom. That the Subsidence happened ge<g ref="char:EOLhyphen"/>nerally, and as near as possibly could be expected in so great a Confusion, accor<g ref="char:EOLhyphen"/>ding to the Laws of Gravity: that Mat<g ref="char:EOLhyphen"/>ter, Body or Bodies which had the greatest quantity or degree of Gravity subsiding
+<pb n="53" facs="tcp:200280:29"/>first in Order, and falling Lowest: that which had the next, or a still Lesser Degree of Gravity, subsiding next after, and setling upon the prece<g ref="char:EOLhyphen"/>dent: and so on their several Courses; that which had the least Gravity sinking not down till last of all, setling at the surface of the Sediment, and covering all the rest. That the Matter subsiding thus, formed the Strata of Stone, of Marble, of Coal, of Earth,</hi> &amp;c.</p>
+               <p>Here indeed the Doctor in resining up<g ref="char:EOLhyphen"/>on <hi>Steno,</hi> has fallen into a grievous Mi<g ref="char:EOLhyphen"/>stake; he will have the Subsidence order<g ref="char:EOLhyphen"/>ed meerly by specifick Gravity; whereas <hi>Steno</hi> does not exclude absolute Gravity: for speaking of the Subsidence, he says,<note place="margin">Can. Car. p. <hi>130.</hi>
+                  </note>
+                  <hi>Sive enim in aquae superficie ceremoris instar concrescens saxea cuticula, ubi gravior red<g ref="char:EOLhyphen"/>dita fuerit, fundum petat.</hi> I wonder, as I hinted before, the Doctor did not see that a Stone of a 100 pound weight could fall sooner to the bottom than the Powder of the same Stone, and for the same rea<g ref="char:EOLhyphen"/>son Gravel sooner than small Sand, tho
+<pb n="54" facs="tcp:200280:30"/>they have the same specifick Gravity. Another difference between the Doctor and <hi>Steno</hi> in this particular is, that the former asserts his marine Bodies to have subsided at the same time with the Matter in which they were intomb'd: Whereas the latter asserts, they were covered by the Sediment.</p>
+               <p>Now come we to the Doctrine of the Strata; in which <hi>Steno</hi> has been more par<g ref="char:EOLhyphen"/>ticular; he tells us,</p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>That the Earth in many places is composed of Strata of different co<g ref="char:EOLhyphen"/>lours lying one upon another;<note place="margin">Can. Car. p. <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4.</hi>
+                  </note> yea, in those very places where the Earth is of one colour, the diversity of the Strata may be observed. That these Strata invite us to believe, that they are the Sediment of a Fluid; <hi>Which in his</hi> Prodromus <hi>he proves by several Arguments;</hi>
+                  <note place="margin">P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. p. <hi>27.</hi>
+                  </note> First, Because it appears not that the dusty Matter of the Beds can have been otherwise reduced in<g ref="char:EOLhyphen"/>to
+<pb n="55" facs="tcp:200280:30"/>that Figure, if it had not by being commixed with some Fluid, and falling thence by its own weight, been made plain by the motion of the same incumbent Fluid. <hi>2ly.</hi> Be<g ref="char:EOLhyphen"/>cause the greater Bodies contained in the same Beds, do for the most part observe the Laws of Gravity, both as to the site of each Body by it self, <hi>(that is parallel to the Horizon, unless where the situation is varied by that of the Bed)</hi> and as to the site of various Bodies among themselves, <hi>(that is, ranged according to their different de<g ref="char:EOLhyphen"/>grees of Gravity).</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward</head>
+               <p>
+                  <hi>Tells us,</hi>
+                  <note place="margin">Nat. Hist. pag. <hi>9.</hi>
+                  </note>
+                  <hi>from his Observati<g ref="char:EOLhyphen"/>ons upon all the Terrestrial Matter,</hi> That it is naturally disposed into Layers or Strata; such as our common Sand<g ref="char:EOLhyphen"/>stone, Marble, Coal, Chalk, all sorts of Earth, Marl, Clay, Sand, Gravel, with
+<pb n="56" facs="tcp:200280:31"/>some others of this various Matter thus formed into Strata, of which the far grea<g ref="char:EOLhyphen"/>ter part of the terrestrial Globe consists from its surface downwards to the greatest depth were ever dig or mine.</p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>That when any Bed was formed,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> the superiour Surface was, as far as was possible, parallel to the Horizon; so that all Beds, except the lowest, were contain'd in two Plains paral<g ref="char:EOLhyphen"/>lel to the Horizon. That he had observed the Strata in some places di<g ref="char:EOLhyphen"/>vided by perpendicular Fissures.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>That the Stone is divided into Strata by means of horizontal and perpendicular Fissures;<note place="margin">Nat. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </note> which he calls so, not so much with respect to the present site of the Strata, as to its original Situation.</p>
+            </div>
+            <div type="part">
+               <pb n="57" facs="tcp:200280:31"/>
+               <head>STENO.</head>
+               <p>That when the Earth had been dryed after the Deluge,<note place="margin">Prod. p. <hi>106.</hi>
+                  </note> its Face did shew vast Plainnesses; that Nature demonstrates that those Plainnesses did exist, and the Scripture contradicts it not.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>
+                  <hi>That the said Strata,</hi>
+                  <note place="margin">Nat. Hist. p. <hi>79.</hi>
+                  </note>
+                  <hi>whether of Stone, of Chalk, of Coal, of Earth, or whate<g ref="char:EOLhyphen"/>ver other Matter they consisted of, were all originally parallel. That they were plain, even, and regular,</hi> &amp;c.</p>
+               <p>As to these Propositions, there are seve<g ref="char:EOLhyphen"/>ral Differences between the Doctor's Phi<g ref="char:EOLhyphen"/>losophy and <hi>Steno</hi>'s. The Doctor confines himself to the time of the Deluge for the Formation of his Beds; whereas <hi>Steno</hi> tells us, there are some extant which have been formed before,<note place="margin">Prod. p. <hi>41.</hi>
+                  </note> and some which have been formed since. That there are <hi>Beds of simple Matter obvious in all Mountains,
+<pb n="58" facs="tcp:200280:32"/>which were formed when the other Beds were not yet extant; but all were covered with a Fluid, destitute of Planis and Animals</hi> The Original of these he dates from the Crea<g ref="char:EOLhyphen"/>tion, and gives admirable Rules for the determining, from the Matter which the Beds contain, The Time and Manner of their Formation; if they were extant at the Creation, or formed since; if made by the Sea, Rivers, or Earthquakes, <hi>&amp;c. Ste<g ref="char:EOLhyphen"/>no</hi> asserts, There were great Plainnesses af<g ref="char:EOLhyphen"/>ter the Deluge, the Doctor, That the Earth was all plain.<note place="margin">Can. Car. p. <hi>125.</hi>
+                  </note>
+                  <hi>Steno</hi> says, <hi>The Di<g ref="char:EOLhyphen"/>versity of the Strata almost, if not altogether, persuade us, that they were compiled by little and little:</hi> But the Doctor's <hi>Strata</hi> were formed all at the same time, as far down as the Surface of the great Abyss. The Doctor lays on his <hi>Strata</hi> spherically, or at least spheroidically, all over the Sur<g ref="char:EOLhyphen"/>face of the Globe, well enough observing so far the Laws of Gravity. But tho <hi>Ste<g ref="char:EOLhyphen"/>no's</hi> Strata, being but small Portions of that spherical Surface, may properly e<g ref="char:EOLhyphen"/>nough be called horizontal, this Epither will by no means agree to the Doctor's; for when they made entire spherical Surfaces, they could no more be denominated <hi>hori<g ref="char:EOLhyphen"/>zontal with respect to that Situation,</hi> than
+<pb n="59" facs="tcp:200280:32"/>
+                  <hi>Meridional</hi> or <hi>Vertical,</hi> or by any other great Circle of the Sphere.</p>
+               <p>As to the changed Situation of the Beds,</p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>That hence a Cause may be given of that Inequality,<note place="margin">Prod. p. <hi>45.</hi>
+                  </note> on the Surface of the Earth, which occasions many Controversies. That the changed Si<g ref="char:EOLhyphen"/>tuation of Beds, is the chief Original of Mountains. <hi>His Arguments for this are not only convincing, but elegant and fine. viz.</hi> That there are vast Plains upon the Tops of some; many Beds parallel to the Horizon; on their Sides various Beds variously inclined to the Horizon; in the opposite Sides of Hillocks the Faces of the broken Beds shewing the perfect resemblance of Matter and Shape, <hi>&amp;c.</hi> That the perpendicular Fissures of the <hi>Strata</hi> shew that they had been violently
+<pb n="60" facs="tcp:200280:33"/>shaken, and broken upon the falling back.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>That after some time the <hi>Strata</hi> were broken on all Sides of the Globe.<note place="margin">Nat. Hist. p. <hi>90.</hi>
+                  </note> That all the Irregularities and Inequalities of the Terrestrial Globe were caused by this means. That the natural Grotto's and Rocks, and those Intervals of the <hi>Strata, which in his Observations he calls the Perpendicular Fissures,</hi> are nothing but these Interruptions or Breaches of the <hi>Strata.</hi> That the more eminent Parts of the Earth, Mountains and Rocks, are only the Elevations of the <hi>Strata.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>STENO.</head>
+               <p>That what did happen in the Sur<g ref="char:EOLhyphen"/>face of the Earth,<note place="margin">Prod p. <hi>105.</hi>
+                  </note> whilst it was co<g ref="char:EOLhyphen"/>vered with Water, neither Scripture nor Nature declareth; this only we may affirm from Nature, that deep Valleys were then produced; because
+<pb n="61" facs="tcp:200280:33"/>a Return was then to be opened for the Waters into the deeper Parts of the Earth.</p>
+            </div>
+            <div type="part">
+               <head>Dr. Woodward.</head>
+               <p>
+                  <hi>That upon the Disruption of the</hi> Stra<g ref="char:EOLhyphen"/>ta,<note place="margin">Nat. Hist. p. <hi>164.</hi>
+                  </note>
+                  <hi>and the Elevation of some and the Depression of others of them, which fol<g ref="char:EOLhyphen"/>lowed after that Disruption, towards the latter end of the Deluge; this Mass of Water fell back again into the depressed and lower parts of the Earth.</hi>
+               </p>
+               <p>In all these Particulars, 1. The Doctor has delivered his mind more positively and fully than <hi>Steno.</hi> 2. <hi>Steno</hi> produces some Mountains, the Doctor all, at the Deluge. 3. <hi>Steno</hi>'s are produced by partial Agents feated near the Surface; the Doctor's by one feated within the Cavity of the great Abyss. 4. <hi>Steno</hi> tells us what his Agents are; but the Doctor keeps his as a Secret.</p>
+               <p>I have not leisure to compare their Dis<g ref="char:EOLhyphen"/>sertations in other things, such as the Ori<g ref="char:EOLhyphen"/>gine of Springs, which they both bring <hi>from the Sea penetrating into the Hollowness of the Earth;</hi> but more fully explained
+<pb n="62" facs="tcp:200280:34"/>by Dr. <hi>Woodward;</hi>
+                  <note place="margin">Nat. Hist. p. <hi>133.</hi>
+                  </note> nor their History of the Effects of Earthquakes,<note place="margin">Prod. p <hi>48.</hi>
+                  </note> which the Reader may consult at his Leisure. From the Specimen I have given (wherein I have made use of the English Translation of <hi>Steno</hi>'s <hi>Prodromus</hi>) it is plain, 1. That <hi>Steno</hi>'s Hypothesis is not burthened with all the Difficulties of Dr. <hi>Woodward</hi>'s; I will not say it is liable to none. 2. That as Nature shews the same Face to every Man, sagacious Persons will jump strange<g ref="char:EOLhyphen"/>ly as to their Conjectures about her. 3. That tho Dr. <hi>Woodward</hi>'s Hypothesis seems to be liable to many just Exceptions, the whole is not to be exploded; there are a great many things which I question not but he will make out beyond all contra<g ref="char:EOLhyphen"/>diction; and if he takes off the Objecti<g ref="char:EOLhyphen"/>ons I have proposed, I'll promise him, I am not in the least disposed to cavils; on<g ref="char:EOLhyphen"/>ly I cannot forbear to wish that People were more diligent in observing, and more cautious in System-making. First, the World is malicious, and when they write for an Opinion it spoils the credit of their Observations. They have then taken their Party, and may be suspected for partial Witnesses. In the next place, Mankind, in these Matters, is naturally too rash,
+<pb n="63" facs="tcp:200280:34"/>and apt to put more in the Conclusion than there is in the Premises. Yea, some there are so fond of an Opinion, that they will take pleasure to cheat themselves and would bring every thing to fit their darling Hypothesis. Then only we may expect to succeed in compiling of Theories, when we build upon true and decisive Observations; and survey the Works of Nature with the same Geometry (tho in a more imperfect Degree) by which the divine Architect put them together.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:200280:35"/>
+            <pb n="65" facs="tcp:200280:35"/>
+            <head>A <hi>Vindication</hi> of an Abstract of an <hi>Italian</hi> Book concerning Marine Bodies which are found petrified in several Pla<g ref="char:EOLhyphen"/>ces at Land, written by <hi>A<g ref="char:EOLhyphen"/>gostino Scilla,</hi> and abridged in the <hi>Philosophical Trans<g ref="char:EOLhyphen"/>actions</hi> for the months of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> and <hi>Febr. 169 5/6.</hi>
+            </head>
+            <head type="sub">To D<seg rend="sup">r</seg> ARBUTHNET.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SINCE you have at last been prevail<g ref="char:EOLhyphen"/>ed upon to oblige the Publick with your Thoughts upon one of those Questions which have so long and so warmly exercised the Philosophical part of Mankind amongst us; you will not be
+<pb n="66" facs="tcp:200280:36"/>surprized to see an account of an inciden<g ref="char:EOLhyphen"/>tal Controversie, which I have been una<g ref="char:EOLhyphen"/>wares engaged in, and which was first oc<g ref="char:EOLhyphen"/>casioned by that Book which you have un<g ref="char:EOLhyphen"/>dertaken to <hi>examine.</hi>
+            </p>
+            <p>You may remember, Sir, that about two Years ago, there was an Abstract of an <hi>Italian</hi> Book written by <hi>Agostine Scilla,</hi> printed in the <hi>Philosophical Transactions.</hi> It is usual for those Papers which are prin<g ref="char:EOLhyphen"/>ted in the Transactions, to be first read before the Royal Society; according to which Custom that Account of <hi>Scilla's</hi> Book was read before them, and they did me the honour so far to approve of it, as to order its Publication. This I suppose they did the more willingly, because the Controversie which <hi>Scilla</hi> undertakes to decide was at that time the Subject of most of the Philosophical Conversations of the <hi>Virtuosi</hi> about the Town. For Dr. <hi>Woodward,</hi> a Member of the <hi>Royal Society,</hi> had not long before printed <hi>An Essay to<g ref="char:EOLhyphen"/>wards the Natural History of the Earth,</hi> as a Specimen of a larger Work; wherein, amongst other things, he undertakes to demonstrate that all those Shells, which are found in the Bowels of the Earth, are <hi>Exuviae</hi> of once-living Animals. The
+<pb n="67" facs="tcp:200280:36"/>proving of which Proposition being like<g ref="char:EOLhyphen"/>wise the Design of <hi>Scilla</hi>'s Treatise, a Book then very little known in <hi>England,</hi> I thought a large Account of it would not be unacceptable to the Society, and there<g ref="char:EOLhyphen"/>in, to my great Satisfaction, I was not deceived, which I gladly take this occa<g ref="char:EOLhyphen"/>sion to acknowledge with Thankfulness.</p>
+            <p>Now it so happened, as it always does when Men start new Notions much out of the common Road, that not long after Dr. <hi>Woodward</hi>'s Book appeared, several Persons, some one way, some another, con<g ref="char:EOLhyphen"/>tradicted his <hi>Hypothesis.</hi> Among other things, some objected to him that he stole from several Writers who had appeared already upon the same Subject, and from <hi>Scilla</hi> amongst the rest. To obviate there<g ref="char:EOLhyphen"/>fore the Prejudices which these Men's Writings might raise against Dr. <hi>Woodward</hi>'s <hi>Hypothesis,</hi> Mr. <hi>Harris,</hi> a Member of the <hi>Royal Society</hi> likewise, has lately printed <hi>Remarks on some late Papers relating to the Universal Deluge, and to the Natural Histo<g ref="char:EOLhyphen"/>ry of the Earth.</hi> Herein he falls upon Mr. <hi>Robinson</hi>'s <hi>Additional Remarks to his Obser<g ref="char:EOLhyphen"/>vations on the Natural History of this World of Matter, and this World of Life,</hi> because he does there accuse Dr. <hi>Woodward</hi> of
+<pb n="68" facs="tcp:200280:37"/>stealing from <hi>Scilla,</hi> and begs pardon of the World for <hi>referring several Hypotheses and Observations to Dr.</hi> Woodward, <hi>whereas it seems he had taken them from others,</hi> a<g ref="char:EOLhyphen"/>mongst whom <hi>Scilla</hi> is there reckoned up for one<note n="*" place="margin">Additie<g ref="char:EOLhyphen"/>nal Re<g ref="char:EOLhyphen"/>marks p. <hi>1.</hi>
+               </note>. Mr. <hi>Harris</hi>'s Words are these,<note n="†" place="margin">Remarks p. <hi>160.</hi>
+               </note>
+               <hi>Then, for the Philosophical Transactions that you cite here, in it is given indeed a sort of an Abstract (such a one as it is) of</hi> Scilla<hi>'s Book, but would any judicious Per<g ref="char:EOLhyphen"/>son charge a Gentleman with being a Plagiary from</hi> Scilla, <hi>by seeing only an Abstract of his Book, and an Abstract too, liable to so many just Exceptions, as I can prove that is?</hi>
+            </p>
+            <p>This Charge of Mr. <hi>Harris</hi>'s put me, Sir, upon the necessity of reviewing what I had formerly published concerning <hi>Scilla</hi>'s Book▪ and of comparing it once more with the Original. I know the Respect which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow to the <hi>Royal Society</hi> too well to im<g ref="char:EOLhyphen"/>pose upon them, and as in the Preamble of my Abstract I had said nothing of Dr. <hi>Woodward</hi> or his Performance, but what was respectful, so I could not see how he or any of his Friends could have any pretence to be disturbed at it. Whether therefore I have presented the <hi>Royal Socie<g ref="char:EOLhyphen"/>ty</hi> with such a fallacious Abstract, I shall now enquire, and then, Sir, leave it to your determination.</p>
+            <pb n="69" facs="tcp:200280:37"/>
+            <p> I need not tell you, Sir, I am sure, who are so throughly versed in all parts, of useful Learning, when an Abstract of a Book that treats of Philosophical Subjects is faulty, and when 'tis not. You know, Sir, that an Abstracter ought to lay his Au<g ref="char:EOLhyphen"/>thor's chief Design fully and clearly before his Reader; if his Author digresses, to take notice of it, if his Digressions be new and curious, to dwell longer upon them than if they are mean and trivial, in a word so to follow him, as that he may be represented by his Abstracter in as fair and full a view as he possibly can. This (if the Abridger writes not in his Author's Language) he may do in his own Words, without confining himself to a Verbal Translation: if his Author be obscure, verbose, or immethodical, he may give his Abstract with Perspicuity and Method, still remembring that his Author's <hi>Notions</hi> not his <hi>Words</hi> are the things to which he ought strictly to confine himself. The <hi>Philosophical Transactions,</hi> and the <hi>Leipzick Acta Eruditorum,</hi> will afford numerous In<g ref="char:EOLhyphen"/>stances of such Abstracts as these which I have here described.</p>
+            <pb n="70" facs="tcp:200280:38"/>
+            <p> Since therefore <hi>Scilla</hi>'s Design was to prove the Shells of all sorts, found in the Bowels of the Earth, to be only <hi>Exuviae</hi> of living Animals, I thought it was enough for me to set down the principal Argu<g ref="char:EOLhyphen"/>ments by which he proved it, with a short Account of the Motives which led him to make this Enquiry, and herein to be sometimes longer sometimes shorter, as the Matter required it. His long-winded Civilities, were only to be hinted at, and that Prolixity which made his Book tedi<g ref="char:EOLhyphen"/>ous to me was carefully to be avoided, lest my Account might have proved te<g ref="char:EOLhyphen"/>dious to those who might ever have thought it worth their while to look in<g ref="char:EOLhyphen"/>to it.</p>
+            <p>For that Reason I omitted <hi>Scilla</hi>'s Cita<g ref="char:EOLhyphen"/>tions out of <hi>Strabo,</hi>
+               <note n="*" place="margin">
+                  <hi>p.</hi> 16, 17.</note> who had observed Shells, and pieces of Ships found near the Temple of <hi>Jupiter Hammon,</hi> as also his long Disputes with <hi>Crollius</hi> and <hi>Guillandi<g ref="char:EOLhyphen"/>nus,</hi> together with those <hi>Postulata</hi> which every Body is agreed about, and are of course presupposed in all sorts of Philoso<g ref="char:EOLhyphen"/>phical Disputes; such as these. That we ought to stand to our Senses, Not to give our selves to <hi>Hypotheses,</hi> Not to pre<g ref="char:EOLhyphen"/>scribe to Nature, and the like.</p>
+            <pb n="71" facs="tcp:200280:38"/>
+            <p> In one place indeed<note n="*" place="margin">Phisos. Trans. no. <hi>219.</hi> p. <hi>184</hi>
+               </note> I mention the <hi>Calabrian</hi> for the <hi>Catanian</hi> Coast, but that I suppose will be allow'd of both sides to be a small Oversight, not worth taking notice of.</p>
+            <p>Neither have I set down every Proof which <hi>Scilla</hi> produces for his Opinion, and yet at the same time I dare appeal to Mr. <hi>Harris,</hi> wherein I have omitted any one Argument of moment, upon which <hi>Scilla</hi> himself lays any stress.</p>
+            <p>Thus, for instance, I omit what he says of the difference of the shape of the <hi>Glos<g ref="char:EOLhyphen"/>sopetrae,</hi> which had been urged as an Ar<g ref="char:EOLhyphen"/>gument why they could not be real Teeth, since, if they had been real Teeth, they would have been more alike; because what I had said of the different morticing of the Shark's Teeth into one another, so that a Man might be able to tell, at first sight, which Tooth belonged to which Side or Jaw, as also <hi>That he had observed every one of these things in his Glossopetrae,</hi>
+               <note n="†" place="margin">ibid. p <hi>190.</hi>
+               </note>
+               <hi>which punctually answer in every part to the several Ranks of the Teeth of Living Sharks,</hi> had sufficiently taken in the Argument so far as I was obliged by my Design to take notice of it. And his Argument drawn from the different Teeth of a <hi>Pesee V<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="72" facs="tcp:200280:39"/>[a Fish, before undescribed by Naturalists, of the <hi>Dog-kind</hi>] was throughly exempli<g ref="char:EOLhyphen"/>fied in the 2d, 3d, 4th, 5th and 6th Figures in that <hi>Transaction,</hi> which I got copy'd from <hi>Scilla</hi>'s Draughts, that I might shew how wonderfully different the Teeth of the same Fish may be, as Age and Posi<g ref="char:EOLhyphen"/>tion may alter them.</p>
+            <p>
+               <hi>Scilla</hi>'s Hesitancy about the Objection, of Shells being found in the Heart, <hi>Renes Su<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>turiali,</hi> and Bladder in human Bo<g ref="char:EOLhyphen"/>dies, was not proper to be observ'd: What an Author does not well know how to explain, can be no proper Subject for an Abridger to dwell upon; especially when it had so little influence upon his main Design. But if I have done <hi>Scilla</hi> an Injustice, in omitting this part of his Book, I fear Mr <hi>Harris</hi> has done him a greater, in misrepresenting it: <hi>Scilla</hi> was bashful, and had too great an <hi>imbecillitas frontis,</hi> positively to deny what so many grave Authors had asserted, and therefore is willing to recur to some inexplicable Plastick Power of Nature in Animal Bo<g ref="char:EOLhyphen"/>dies, tho' when he had said all he could upon the Subject, 'tis plain he disbeliev'd the Matter of Fact, otherwise he would never have said at last, <hi>That he could not
+<pb n="73" facs="tcp:200280:39"/>bring himself to believe, that the Figure of those Shells which are found in Animals, does exactly correspond with that of the</hi> Tur<g ref="char:EOLhyphen"/>bens <hi>and</hi> Conchae <hi>of the Sea.</hi>
+               <note n="*" place="margin">Non pos<g ref="char:EOLhyphen"/>so da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mi a e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dere nelle dette <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>machine quella es<g ref="char:EOLhyphen"/>sati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ima, e corres<g ref="char:EOLhyphen"/>pondente l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttura, che nel Guscio d'un Tur<g ref="char:EOLhyphen"/>binetto, o<g ref="char:EOLhyphen"/>vero Lu<g ref="char:EOLhyphen"/>machina di Mare godiamo, <hi>p.</hi> 76.</note> This was an easie way of denying the positive As<g ref="char:EOLhyphen"/>sertion of his Antagonist: So that I can<g ref="char:EOLhyphen"/>not see how <hi>Scilla</hi> can upon this account be reasonably charged with being a Per<g ref="char:EOLhyphen"/>son <hi>whose Easiness and Credulity put him up<g ref="char:EOLhyphen"/>on the Solution of that which in all likelihood was intended only to banter and abuse him</hi>
+               <note n="†" place="margin">
+                  <hi>Harris</hi>'s <hi>Remarks,</hi> p. 226.</note> For it is plain by the words just now ci<g ref="char:EOLhyphen"/>ted, that it was not <hi>Scilla</hi>'s <hi>Easiness</hi> and <hi>Credulity</hi> which put him upon the Solution of a Sham-<hi>Phoenomenon,</hi> but his <hi>good Breed<g ref="char:EOLhyphen"/>ing,</hi> of which he is never sparing, and which is peculiar to the Gentlemen of that Countrey, which would not suffer him flatly to deny what his Adversary had directly affirmed.</p>
+            <p>Perhaps Mr. <hi>Harris</hi> may object, that I use the Expression <hi>The Deluge,</hi> when I en<g ref="char:EOLhyphen"/>quire into the Reason why Shells of one sort are, generally speaking, mostly sound together; which I pretend that <hi>Scilla</hi> solves by <hi>the Motion into which the Waters were put during the Deluge</hi>
+               <note n="*" place="margin">
+                  <hi>Pl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l. Tran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> n. 21<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. p. 18<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> whereby he may pretend, that I would insinuate, that <hi>Scilla</hi> refers every thing to <hi>Noah</hi>'s <hi>Flood,</hi> which
+<pb n="74" facs="tcp:200280:40"/>says Mr. <hi>Harri,</hi> the <hi>Author never dream'd of</hi>
+               <note n="†" place="margin">
+                  <hi>Harris</hi>'s <hi>Remarks,</hi> p. 228.</note> Now besides that it is plain that I cannot be so understood, since I call it on<g ref="char:EOLhyphen"/>ly <hi>a Deluge</hi> in another place, where I say from my Author in the same Page, <hi>that the repeated flowings and ebbings of the Water happened during some one very great Inunda<g ref="char:EOLhyphen"/>tion, the Time whereof, or its Cause he does not determine</hi>
+               <note n="†" place="margin">
+                  <hi>Phil. Trans.</hi> n. 219. p. 191.</note>. I say, besides this, which sufficiently vindicates my use of the word <hi>Deluge,</hi> which is no Term of Art appro<g ref="char:EOLhyphen"/>priated to <hi>Noah</hi>'s Flood, but signifies any great Inundation, unless the Sense or some limiting Epithet determines it so to be un<g ref="char:EOLhyphen"/>derstood; Mr. <hi>Harris</hi> seems inconsistent with himself, when in one Page he says, <hi>'Tis plain that</hi> Scilla <hi>never dream'd of the universal Deluge,</hi> and in the very next Page introduces <hi>Scilla</hi> saying, <hi>That he does not know whether these Shells were reposited in the Earth in the universal Deluge, or in some other particular Inundations</hi>
+               <note n="*" place="margin">
+                  <hi>Harris</hi>'s <hi>Rem.</hi> pag. 229.</note>.</p>
+            <p>This brings me to the mighty Charge, to that <hi>Exception,</hi> (<hi>just</hi> or <hi>unjust</hi>) which Mr. <hi>Harris</hi> takes at my Abstract of <hi>A<g ref="char:EOLhyphen"/>gostino Scilla;</hi> and that is, my using the Expression <hi>Specifick Gravity,</hi> which our Au<g ref="char:EOLhyphen"/>thor <hi>no where uses, nor the thing design'd by it</hi>
+               <note n="†" place="margin">
+                  <hi>ib.</hi> p. 236.</note>, (if we may believe Mr. <hi>Harris</hi>) <hi>in
+<pb n="75" facs="tcp:200280:40"/>all his Book.</hi> And here, Sir, I do willing<g ref="char:EOLhyphen"/>ly acknowledg, that <hi>Scilla</hi> never applys the Term <hi>Specifick</hi> to <hi>Gravity;</hi> nay, I am not sure whether he knew the difference be<g ref="char:EOLhyphen"/>tween <hi>Absolute</hi> and <hi>Specifick Gravity;</hi> which last is an Epithet which has not been long of frequent use, and was (as I believe) first brought into fashion upon the intro<g ref="char:EOLhyphen"/>ducing Hydrostaticks into Natural Philo<g ref="char:EOLhyphen"/>sophy, which necessarily obliged Men to consider not barely the <hi>absolute</hi> or <hi>simple Weight</hi> of Bodies, when tryed in a pair of Scales, but their <hi>relative Weight,</hi> which they have when compared with one ano<g ref="char:EOLhyphen"/>ther. <hi>Scilla</hi> seems to have been unac<g ref="char:EOLhyphen"/>quainted with the new Authors and Dis<g ref="char:EOLhyphen"/>coveries in Physicks, and so 'tis no won<g ref="char:EOLhyphen"/>der if he uses not their Terms. But since this is so common a Term, and so well understood, I could not imagin how I should do either <hi>Scilla,</hi> or any body else, any wrong, if I used it in my Abstract, provided <hi>the Thing designed by it</hi> were al<g ref="char:EOLhyphen"/>so <hi>designed</hi> by my Author.</p>
+            <p>You know very well, Sir, that <hi>Specifick,</hi> when apply'd to <hi>Gravity,</hi> is an improper word, not signifying what at first sight it seems to import: For thereby the <hi>compara<g ref="char:EOLhyphen"/>tive</hi> and <hi>relative</hi> Gravity of Bodies is usually
+<pb n="76" facs="tcp:200280:41"/>understood. Water being a Body very manageable, and easily to be come at is the usual Standard by which the <hi>relative</hi> or <hi>specifick</hi> Gravity of other Bodies is tryed; and the difference of a Body's weight in Air and Water being equal to the weight of a quantity of Water equal in bulk to the Body weighed; the proportion of the weight of this Body to that of Water is hereby determined; if the Proportion which the weight of Water bears to that of Gold, be as 1 to 19, and the Propor<g ref="char:EOLhyphen"/>tion of the weight of Water to that of Silver be as 1 to 10, 5; then by the Pro<g ref="char:EOLhyphen"/>portion which Gold and Silver bear to Water, we know the Proportion they bear to one another; by which Proportion we know their <hi>Specifick Gravity;</hi> Tho in ma<g ref="char:EOLhyphen"/>thematical strictness this Term is egregi<g ref="char:EOLhyphen"/>ously mis-applyed; for <hi>Species</hi> being only a Logical Term, and every individual, having its peculiar Texture as well as its peculiar Subsistence, it may be question'd, whether there be two Lumps of any spe<g ref="char:EOLhyphen"/>cies of Metal or Mineral drawn from dif<g ref="char:EOLhyphen"/>ferent Mines or Quarries, which have exactly the same <hi>Specifick Gravity.</hi> Mr. <hi>Collins</hi> has given us the <hi>Comparative Gra<g ref="char:EOLhyphen"/>vity</hi> of eight pieces of Gold, and three
+<pb n="77" facs="tcp:200280:41"/>pieces of Brass, which he weighed him<g ref="char:EOLhyphen"/>self, all which differed very considerably from one another<note n="*" place="margin">
+                  <hi>Phil.</hi> T. n. 199. p. 694.</note> Had these eleven pieces all of a bulk been put together into a Mass of fluid Mud, and there jumbled with a confused violent Motion, this Mass upon the ceasing of the motion, which kept it in its fluid state, would have let fall all those heterogenous Bodies which were heavier than it self; and then these metalline Lumps would have subsided in order, according to their different Gra<g ref="char:EOLhyphen"/>vities, if the Figure of every piece would have allow'd it.</p>
+            <p>Tho, Sir I do own, that what <hi>Scilla</hi> says is not inconsistent with the Laws of <hi>Absolute Gravity;</hi> since it is certain, that if two Bodies be alike specifically heavy, but of a different Absolute Gravity, the ab<g ref="char:EOLhyphen"/>solutely heaviest Body supposing their Fi<g ref="char:EOLhyphen"/>gures to be similar, will descend with the greatest Celerity: But yet this does not at all exclude <hi>that difference in Subsidence, which Specifick Gravity would also cause;</hi> for of Bodies of the <hi>same</hi> bulk and figure, and of, <hi>different</hi> Specifick Gravities, that Body which has the greatest Specifick Gravity, will <hi>also</hi> descend the fastest: So that <hi>Scilla</hi>'s
+<pb n="78" facs="tcp:200280:42"/>Account will <hi>strictly include</hi> Specifick Gra<g ref="char:EOLhyphen"/>vity, and consequently I did him no wrong so to express his Description of the <hi>Messinese</hi> Hills, as would in common speech be best understood.</p>
+            <p>Mr. <hi>Harris</hi> ought not to have excepted to what I had said▪ since Dr. <hi>Woodward</hi> says the very same thing that I have done, [<hi>Essay</hi> p. 75.] <hi>This Subsidence,</hi> says he, <hi>happen'd generally, and as near as possibly could be expected in so great a Confusion, according to the Laws of Gravity: That Mat<g ref="char:EOLhyphen"/>ter, Body or Bodies, which had the greatest quantity or degree of Gravity</hi> [<hi>i. e.</hi> the hea<g ref="char:EOLhyphen"/>viest] <hi>subsiding first in order, and falling lowest:</hi> [i corpi di maggior peso sotto] <hi>that which had the next, or a still lesser de<g ref="char:EOLhyphen"/>gree of Gravity, subsiding next after, and settling upon the precedent:</hi> [i meno gravi sopra] <hi>that which had the least Gravity sinking not down till last of all, settling at the surface of the Sediment, and covering all the rest.</hi> [sopra di questi i piu leggieri] It's true, the Doctor restrains this Subsi<g ref="char:EOLhyphen"/>dence afterwards <hi>merely</hi> to <hi>Specifick Gra<g ref="char:EOLhyphen"/>vity,</hi> wherein he is mistaken; but had he kept to <hi>Scilla</hi>'s general Expression (which fully includes it) it had been more Phi<g ref="char:EOLhyphen"/>losophical.</p>
+            <pb n="79" facs="tcp:200280:42"/>
+            <p> Since therefore I explained what had been alike expressed both by <hi>Scilla</hi> and Dr. <hi>Woodward,</hi> after Dr. <hi>Woodward</hi>'s man<g ref="char:EOLhyphen"/>ner, (only not directly excluding the Laws of <hi>Absolute Gravity,</hi> which <hi>Scilla</hi> takes in joyntly with those of <hi>Specifick</hi>) the Do<g ref="char:EOLhyphen"/>ctor's Defender has no reason to find fault with my Account: At least, if it may in strictness be thought <hi>defective,</hi> it cannot be said to be <hi>erroneous.</hi>
+            </p>
+            <p>It is plain therefore, that when <hi>Scilla</hi> talks of Bodies subsiding in a Fluid, <hi>accor<g ref="char:EOLhyphen"/>ding to their weight,</hi> he may by this <hi>weight</hi> be probably supposed to mean <hi>Specifick Gravity,</hi> as 'tis commonly called in oppo<g ref="char:EOLhyphen"/>sition to <hi>Absolute;</hi> for if they were of the same <hi>Specifick Gravity</hi> with Water, they would lie in any part, top, middle, or bottom where they were placed at first; and the reason why one thing immers'd in Water sinks sooner than another, is, because being not only heavier than Wa<g ref="char:EOLhyphen"/>ter <hi>specifically</hi> but <hi>absolutely</hi> at <hi>least,</hi> if not <hi>specifically</hi> heavier than that other Body that swims along with it, it proporti<g ref="char:EOLhyphen"/>onably gravitates more, and is less hindred in its descent by the Resistance of the ambient Water, than that other Body is. If therefore <hi>Scilla</hi> says that the <hi>heaviest
+<pb n="80" facs="tcp:200280:43"/>Bodies</hi> lay lowest, it implies that Bodies of a <hi>different Gravity, absolute</hi> or <hi>specifick,</hi> once swam together in the Water, and tho he may not understand the several Acceptation of the Terms <hi>Absolute</hi> and <hi>Specifick,</hi> when applyed to <hi>Gravity,</hi> yet he means the same thing with those that do, and would have expressed himself in the same manner had it been the fashion.</p>
+            <p>Wherefore when <hi>Scilla</hi> positively di<g ref="char:EOLhyphen"/>stinguishes from his own Observation be<g ref="char:EOLhyphen"/>tween the Ranges of the Strata of the <hi>Gravel</hi> and <hi>Sand</hi> in the Hills about <hi>Messina,</hi> and when he directly says that the <hi>Hea<g ref="char:EOLhyphen"/>viest fell lowermost,</hi> he is thus to be under<g ref="char:EOLhyphen"/>stood<note n="*" place="margin">
+                  <hi>Scilla,</hi> (<hi>p.</hi> 166) <hi>gives this Descrip<g ref="char:EOLhyphen"/>tion of the Hills near</hi> Messina: Sono eglino per lo più questi nostri monti di Ghiaie, rene Mezzane, e minutissime, rialzatè a tale segno, che sovrastano modestamente alla Città, che vagamente coronano: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'Ordine della loro Composizione è questo, cioè <hi>un suolo di Ghiaie, à cui s'aggiugne l'altro di Rene ordinarie, e sopra di questo il Terzo di minutissime rene;</hi> e cio con ordinanza continuata, perciocche di nuovo sopra la sottile Rena scorgesi rassetrata la Ghiaia, e Susseguentemente sino alla Sommità —Quel che oss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvo con istupore, si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è, il vedere replicato più e più volte <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'Ordine delle Rene grosse, mezzane, e minute: Ed e forza conchindere, che con piu cappate di Materia forestiera fossero <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alla Grandezza, che li Veggiamo, <hi>Which Description I <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>dged thus;</hi> (<hi>Transact.</hi> p. 191.) The Mountains near <hi>Messi<g ref="char:EOLhyphen"/>na</hi> consist of Strata, which ly in this order, <hi>first Gravel, then midling Sand, then very fine Sand.</hi> — That after three Layers of Sand and Gravel of different finenesses, come three other Layers in the same order with the former; first Gravel, then coa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler, then finer Sand again, and so on several times one after another.
+<p>
+                     <hi>The manner how they came to be thus formed,</hi> Scilla <hi>describes thus,</hi> (p. 127.) Eglino [i torrenti] secondo la Piena dell' Acqae, portano con esso loro quel, che incontrano; in luoghi però ove possono dilatarsi, perdendo la ferocia del Corso loio le acque, po<g ref="char:EOLhyphen"/>sano e discaricano i corpi involti in quel fluido, e strascinati dal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Impeto, <hi>ma con un'Ordine necessario,</hi> cioè, <hi>i corpi di magg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or peso sotto, i meno gravi sopra, e sopra di questi i piu leggieri;</hi> il qual Ordine sarà replicato dalla cagione medesima più, e più volte, secondo le pioggie, che con intervailo mancano, e ricominciano. <hi>Or,</hi> da cio Jo cavo la ragione di determinare la materia, sore<g ref="char:EOLhyphen"/>stiera che le nostre Montagne compone; e certamente elle pion<g ref="char:EOLhyphen"/>tate furono nel sito in cui le scorgiamo, da una qualche gran<g ref="char:EOLhyphen"/>dissima inundazione, la quale secondo la Piena, ed il Reposo, a<g ref="char:EOLhyphen"/>vesse portato, e rilasciato il Peso più, e più volte ondeggiando. <hi>This I gave in short in</hi> English <hi>thus,</hi> (p. 191.) This he sup<g ref="char:EOLhyphen"/>poses to have proceeded from repeated Tides; from whence he concludes, that the Water coming with great violence, sustained whatsoever came in its way; but upon its going off, the force abating, <hi>it let fall the terrestrial Matter that subsided according to its specifick Gravity;</hi> and that these repeated Flowings and Ebbings of the Water happen'd during some one very great In<g ref="char:EOLhyphen"/>undation, <hi>&amp;c. What</hi> Scilla <hi>says, was▪ done by a necessary Order,</hi> that is to lay, The weightest Body lowermost, the less weighty above them, and the lightest uppermost, <hi>I render</hi> was done by Specifick Gravity, <hi>which, to any Man that knows what</hi> Specifick Gravity <hi>means includes the self-same thing.</hi> Only I must own, that what I call <hi>Repeated Tides,</hi> should have been rendred <hi>Re<g ref="char:EOLhyphen"/>peated Floods.</hi>
+                  </p>
+               </note>: That these Particles of <hi>Sand</hi> and <hi>Gravel</hi> subsided at all, was due to their being specifically heavier than the Water
+<pb n="81" facs="tcp:200280:43"/>wherein they were rolled, but that they should observe a determinate Order in their Subsidence, which Order, <hi>Scilla</hi> him<g ref="char:EOLhyphen"/>self observes, was probably due to their being some specifically heavier than others;
+<pb n="82" facs="tcp:200280:44"/>and had the <hi>middling</hi> and <hi>very fine Sand</hi> been absolutely aequiponderant with the <hi>Gravel,</hi> they would have been casually interspers'd.</p>
+            <p>Mr. <hi>Harris</hi> is so very sensible of the Truth of this Reasoning, that after he had positively declared that <hi>Scilla has not the thing designed by specifick Gravity once in all his Book;</hi>
+               <note place="margin">p. <hi>236.</hi>
+               </note> he says in the same page that <hi>Scilla's Notion of the largest and most ponde<g ref="char:EOLhyphen"/>rous Bodies settling lowest is so gross'd Mis<g ref="char:EOLhyphen"/>take, that 'tis strange he could ever fall into it.</hi> First he says <hi>Scilla never intended to assert, That the Subsidence in the Inundations he speaks of was according to specifick Gravi<g ref="char:EOLhyphen"/>ty,</hi> and then he <hi>wonders how Scilla could ever assert that it was, the thing it self being so gross a Mistake.</hi> This, Sir, needs not to be enlarged upon</p>
+            <p>And with this I shall conclude what I had to say in defence of the Abstract of <hi>Scilla</hi>'s Book, which was never designed for a just Translation. I dare appeal to you, Sir, whether <hi>Scilla</hi> did not resolve the Subsidence of the <hi>Strata,</hi> by that which you and I, Sir, know does not ex<g ref="char:EOLhyphen"/>clude the specifick Gravity of those seve<g ref="char:EOLhyphen"/>rall Bodies that composed them. Yea, tho the <hi>Grav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, middling Sand,</hi> and <hi>fine Sand,</hi> are here in <hi>England,</hi> as far as Mr. <hi>Harris</hi> has
+<pb n="83" facs="tcp:200280:44"/>tryed them, alike specifically heavy, which I will not dispute; yet it proves nothing against what <hi>Scilla</hi> has asserted. Mr. <hi>Har<g ref="char:EOLhyphen"/>ris</hi> knows every thing is an Individual in Nature; unless he had weighed the <hi>Messi<g ref="char:EOLhyphen"/>nese</hi> Sand, he could not be positive: and tho <hi>Scilla</hi> be no Philosopher, yet he is a Painter, and such Men usually have pretty quick Eyes, and can tell whether <hi>fine Sand</hi> or <hi>Gravel</hi> lies uppermost, when they view the broken Cliff of a Hill.</p>
+            <p>The other Dispute which Mr. <hi>Harris</hi> is engaged in is nothing to my purpose: whether Dr. <hi>Woodward</hi> has taken from <hi>Scilla</hi> or no concerns not me, who never said he did. Perhaps he never saw the Book till after he had seen the Abstract. Those that have read his Essay and <hi>Scilla,</hi> even in this Abstract, will be able to judge how useful <hi>Scilla</hi> might have been to him had he consulted him. Our <hi>Italian</hi> clear<g ref="char:EOLhyphen"/>ly proves that the various <hi>Echini, Glosso<g ref="char:EOLhyphen"/>petrae, Bastoncini di San Paolo, Oyster-shells, Cockles, Turbens, Scallops, &amp;c.</hi> which were found in the Hills of <hi>Sicily</hi> and <hi>Calabria,</hi> and in <hi>Malta,</hi> were actually <hi>Exuviae</hi> and Spoils of those Marine Bodies which they resembled: and this he shews by compa<g ref="char:EOLhyphen"/>ring them with their Originals with great Niceness. To a Man who lives in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="84" facs="tcp:200280:45"/>where many of those Animals are rarely if ever seen, such Hints are of great use. And tho an Author is doubtful and reserved in his Solutions of these perplex'd Phoenomena; yet when he is sure of his Conclusions, and gives good and substan<g ref="char:EOLhyphen"/>tial Reasons why he is so, his Observati<g ref="char:EOLhyphen"/>ons will be valuable to all those who write upon that Argument, let their own Stock of Observations be never so great. If Dr. <hi>Woodward</hi> received his first notice of <hi>Scilla</hi> from my Abstract, (as I had <hi>then</hi> rea<g ref="char:EOLhyphen"/>son to believe, since he never quoted nor named him in his Essay) I <hi>shall</hi> think I did him a Kindness; and tho Mr. <hi>Harris</hi> seems to insinuate the contrary, yet I shall suppose that Dr. <hi>Woodward</hi> himself thinks I have obliged him, because he will be sen<g ref="char:EOLhyphen"/>sible that he is not singular, and it is a Pleasure to every inquisitive Man to find that other Men, by the same Assistances of Nature and Observation, have made the same Conclusions with himself. I am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your most affectionate Friend, and humble Servant <hi>W. W.</hi>
+               </signed>
+               <date>
+                  <hi>Dec.</hi> 1. 1697.</date>
+            </closer>
+            <pb facs="tcp:200280:45"/>
+         </div>
+      </body>
+   </text>
+</TEI>
